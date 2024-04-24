@@ -8,3 +8,8 @@
 <a href="https://discord.gg/WFpDr7zY8Z"><img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/b62b4ef2-6be5-418c-b8b0-46ad9c061448" alt="Discord" style="width:20%; height:auto;"></a>
 <a href="https://modrinth.com/modpack/elysium-days"><img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/de4dfb58-e534-4f90-92d8-eb528a7ad6ca" alt="Download" style="width:20%; height:auto;"></a>
 <a href="https://github.com/Fyoncle/Elysium-Days/blob/main/MOD-LIST.md"><img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/096f45ed-e937-469e-83f9-c9509f5d5898" alt="Mod List" style="width:20%; height:auto;"></a>
+
+## Credits
+Thanks so much to [Shizotoaster](https://github.com/shizotoaster) for helping with optimization and lots of other things!
+
+Special thanks to [Enderverse](https://www.youtube.com/@EnderVerseMC) for including my modpack in [his video](https://youtu.be/ar6Wi7GKLQI?t=191), it really helped!

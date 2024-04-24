@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/84ddb659-7d21-4526-9690-6608b6b71446" width="30%" height="30%">
   
-  A modpack that tries to make Minecraft fun again!
-  
+### A modpack that tries to make Minecraft fun again!
+
 #
 
 <a href="https://discord.gg/WFpDr7zY8Z"><img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/b62b4ef2-6be5-418c-b8b0-46ad9c061448" alt="Discord" style="width:20%; height:auto;"></a>

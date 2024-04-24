@@ -5,4 +5,6 @@
   
 #
 
-[![Discord](https://github.com/Fyoncle/Elysium-Days/assets/63975256/7e7d66dc-b48b-4f5c-b098-c082b0c11f30)](https://discord.gg/WFpDr7zY8Z)
+<a href="https://discord.gg/WFpDr7zY8Z"><img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/b62b4ef2-6be5-418c-b8b0-46ad9c061448" alt="Discord" style="width:20%; height:auto;"></a>
+<a href="https://modrinth.com/modpack/elysium-days"><img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/de4dfb58-e534-4f90-92d8-eb528a7ad6ca" alt="Download" style="width:20%; height:auto;"></a>
+<a href="">a<img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/8fc3f31f-bdd8-4c39-a421-f12a790058c9" alt="Mod List" style="width:20%; height:auto;"></a>

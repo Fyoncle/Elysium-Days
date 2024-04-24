@@ -28,4 +28,4 @@ Thanks so much to [Shizotoaster](https://github.com/shizotoaster) for helping wi
 
 Special thanks to [Enderverse](https://www.youtube.com/@EnderVerseMC) for including my modpack in [his video](https://youtu.be/ar6Wi7GKLQI?t=191), it really helped!
 
-And all the mod developers listed in [here](https://github.com/Fyoncle/Elysium-Days/blob/main/MOD-LIST.md).
+And all the mod developers that i used the mods of, you can see the list in [here](https://github.com/Fyoncle/Elysium-Days/blob/main/MOD-LIST.md).

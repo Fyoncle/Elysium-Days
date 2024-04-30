@@ -174,6 +174,10 @@
 
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) by Fuzs
 
+- [Formations (Structure Library)](https://modrinth.com/mod/formations) by SuperMartijn642
+
+- [Formations Nether](https://modrinth.com/mod/formations-nether) by SuperMartijn642
+
 - [Friendly Fire](https://modrinth.com/mod/friendly-fire) by Darkhax
 
 - [Furnace Recycle](https://modrinth.com/mod/furnace-recycle) by Serilum
@@ -276,7 +280,7 @@
 
 - [MidnightLib](https://modrinth.com/mod/midnightlib) by Motschen
 
-- [Mob Filter](https://modrinth.com/mod/mobfilter)
+- [Mob Filter](https://modrinth.com/mod/mobfilter) by pcal43
 
 - [Mobs Attempt Parkour](https://modrinth.com/mod/mobs-attempt-parkour) by Barribob
 
@@ -360,6 +364,10 @@
 
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) by Fuzs
 
+- [Realistic Sleep](https://modrinth.com/mod/realisticsleep) by Steveplays
+
+- [Rebalanced Loot](https://modrinth.com/mod/rebalanced-loot) by Apollo
+
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
 
 - [Regions Unexplored](https://modrinth.com/mod/regions-unexplored) by UHQ-GAMES
@@ -393,8 +401,6 @@
 - [Simple Netherite Horse Armor](https://modrinth.com/mod/simple-netherite-horse-armor) by JerryLu086
 
 - [Sit](https://modrinth.com/mod/bl4cks-sit) by Bl4ckscor3
-
-- [Sleep Warp](https://modrinth.com/mod/sleep-warp) by Giggitybyte
 
 - [Smarter Farmers (farmers replant)](https://modrinth.com/mod/smarter-farmers-farmers-replant) by MehVahdJukaar
 
@@ -455,8 +461,6 @@
 - [Weaker Spiderwebs](https://modrinth.com/mod/weaker-spiderwebs) by Serilum
 
 - [What The Bucket](https://modrinth.com/mod/what-the-bucket) by Darkhax
-
-- [When Dungeons Arise: Seven Seas](https://modrinth.com/mod/when-dungeons-arise-seven-seas) by Aureljz
 
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) by TheXaero
 

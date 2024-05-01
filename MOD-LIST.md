@@ -1,5 +1,8 @@
 # Complete Mod List Of Elysium Days
 
+<details>
+<summary>Mod List (265)</summary>
+  
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) by tr7zw
 
 - [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) by Autovw
@@ -55,6 +58,8 @@
 - [Boat Item View](https://modrinth.com/mod/boat-item-view) by 50ap5ud5
 
 - [Bookshelf Lib](https://modrinth.com/mod/bookshelf-lib) by Darkhax
+
+- [Borderless Mining](https://modrinth.com/mod/borderless-mining) by comp500
 
 - [Bountiful](https://modrinth.com/mod/bountiful) by Ejektaflex
 
@@ -146,6 +151,8 @@
 
 - [Enderman Overhaul](https://modrinth.com/mod/enderman-overhaul) by Joo5h
 
+- [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) by Minenash
+
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe) by FoundationGames
 
 - [Entity Culling](https://modrinth.com/mod/entityculling) by Tr7zw
@@ -199,6 +206,8 @@
 - [HerdsPanic](https://modrinth.com/mod/herdspanic) by Globox1997
 
 - [Hero Proof](https://modrinth.com/datapack/hero-proof) by Eugene
+
+- [Highlight](https://modrinth.com/mod/highlight) by epic_oreo
 
 - [Hopo Better Ruined Portals](https://modrinth.com/datapack/hopo-better-ruined-portals) by Ohponopono
 
@@ -384,6 +393,8 @@
 
 - [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) by JamCoreModding
 
+- [Rotten flesh to Leather (Fabric/Quilt)](https://modrinth.com/mod/rotten-flesh-to-leather-mod-fabric) by CrebboElodie
+
 - [Scaffolding Drops Nearby](https://modrinth.com/mod/scaffolding-drops-nearby) by Serilum
 
 - [Seamless](https://modrinth.com/mod/seamless) by LarsMans
@@ -401,6 +412,8 @@
 - [Simple Netherite Horse Armor](https://modrinth.com/mod/simple-netherite-horse-armor) by JerryLu086
 
 - [Sit](https://modrinth.com/mod/bl4cks-sit) by Bl4ckscor3
+
+- [Skeleton Horse Spawn](https://modrinth.com/mod/skeleton-horse-spawn) by Serilum
 
 - [Smarter Farmers (farmers replant)](https://modrinth.com/mod/smarter-farmers-farmers-replant) by MehVahdJukaar
 
@@ -436,11 +449,15 @@
 
 - [The Lost Castle](https://modrinth.com/mod/the-lost-castle) by Jack-Bagel
 
+- [Tips](https://modrinth.com/mod/tips) by Darkhax
+
 - [TieredZ](https://modrinth.com/mod/tieredz) by Globox1997
 
 - [ToolTipFix](https://modrinth.com/mod/tooltipfix) by Kyrptonaught
 
 - [Torch hit!](https://modrinth.com/mod/torch-hit) by CrystalSpider
+
+- [Tree Harvester](https://modrinth.com/mod/tree-harvester) by Serilum
 
 - [TrimsEffects](https://modrinth.com/mod/trimseffects) by Lupin
 
@@ -496,6 +513,10 @@
 
 - [You're in Grave Danger](https://modrinth.com/mod/yigd) by B1n-ry
 
+- [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) by shedaniel
+
+- [Zombie Horse Spawn](https://modrinth.com/mod/zombie-horse-spawn) by Serilum
+
 - [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features) by Traben
 
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) by Traben
@@ -517,3 +538,85 @@
 - [e4mc](https://modrinth.com/mod/e4mc) by Vgskye
 
 - [playerAnimator](https://modrinth.com/mod/playeranimator) by KosmX
+
+</details>
+
+<details>
+<summary>Resource Packs (16)</summary>
+
+- [Cherry Background](https://modrinth.com/resourcepack/cherry-background) by Kryqu
+
+- [Embrace Pixels](https://modrinth.com/resourcepack/embrace-pixels) by Mwti _~~[Shader with LabPBR and specific settings only, check resource pack page for more information.]~~_
+
+- [Enhanced Boss Bars](https://modrinth.com/resourcepack/enhanced-boss-bars) by Naku
+
+- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants) by Mythitorium
+
+- [Freshly Modded](https://modrinth.com/resourcepack/freshly-modded) by SebSemos
+
+- [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass) by robotkoer
+
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) by FreshLX
+
+- [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player) by TrasTick and Ithan!
+
+- [GUI Revision](https://modrinth.com/resourcepack/gui-revision) by Vixel
+
+- [Low On Fire](https://modrinth.com/resourcepack/low-on-fire) by Haikis
+
+- [More Mob Variants x Fresh Animations](https://modrinth.com/resourcepack/more-mob-variants-fresh-animations-addon) by Nyuppo
+
+- [RAY's 3D Ladders](https://modrinth.com/resourcepack/rays-3d-ladders) by xR4YM0ND
+
+- [RAY's 3D Rails](https://modrinth.com/resourcepack/rays-3d-rails) by xR4YM0ND
+
+- [Rain Revamp](https://modrinth.com/resourcepack/rain-revamp) by DarkStormPT
+
+- [Shiny Ores](https://modrinth.com/resourcepack/shiny-ores-countxd) by CountXD
+
+- [Tissou's Zombie Pack](https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-19) by Tissou ~~_[I have permission from Tissou to add this resource pack.]_~~
+
+</details>
+<details>
+<summary>Shaders (4)</summary>
+
+- [Bliss Shaders](https://modrinth.com/shader/bliss-shader) by X0nk
+
+- [Complementary Unbound](https://modrinth.com/shader/complementary-unbound) by EminGT
+
+- [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) by EminGT
+
+- [BSL Shaders](https://modrinth.com/shader/bsl-shaders) by CaptTatsu
+
+</details>
+
+<details>
+<summary>Incompatible Mods With This Modpack</summary>
+
+- [Smooth GUI](https://modrinth.com/mod/smooth-gui) Having Problems With Debugify
+
+- [Farmer's Delight Fabric](https://modrinth.com/mod/farmers-delight-fabric) Having incompatibility with many other mod updates.
+
+- [Merchant Markers](https://modrinth.com/mod/merchant-markers) Resource loading failed error.
+
+- [Better Advancements](https://modrinth.com/mod/better-advancements) Possible to use, but crashing so much.
+
+- [Better End](https://modrinth.com/mod/betterend) & [Better Nether](https://modrinth.com/mod/betternether) Mod is having INSANE rendering, crash on launches, lag at previous versions and more.
+
+- [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) Can't work together with More Culling.
+
+- [Fancy Menu](https://modrinth.com/mod/fancymenu) FancyMenu incompatible with many mods included on this modpack.
+
+- [Phosphor](https://modrinth.com/mod/phosphor) Incompatible with Starlight
+
+- [Hellion's Sniffer+](https://modrinth.com/mod/hellions-sniffer+) Completely breaks cave generation on 1.20.1
+
+- [Dyed](https://modrinth.com/mod/dyed) Duplicates Horse & Horse Armor and corrupts the animations with Fresh Animations installed.
+
+- [Fish Of Thieves](https://modrinth.com/mod/fish-of-thieves) Insane TPS drops, not incompatible, but worth counting as incompatible because of the unplayable lag.
+
+- [Let Sleeping Dogs Lie](https://modrinth.com/mod/let-sleeping-dogs-lie) Incompatible with Fresh Animations
+
+- [SleepWarp](https://modrinth.com/mod/sleep-warp) Causing Crashes
+  
+</details>

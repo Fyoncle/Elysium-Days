@@ -1,7 +1,7 @@
 # Complete Mod List Of Elysium Days
 
 <details>
-<summary>Mod List (265)</summary>
+<summary>Mod List (269)</summary>
   
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) by tr7zw
 
@@ -59,8 +59,6 @@
 
 - [Bookshelf Lib](https://modrinth.com/mod/bookshelf-lib) by Darkhax
 
-- [Borderless Mining](https://modrinth.com/mod/borderless-mining) by comp500
-
 - [Bountiful](https://modrinth.com/mod/bountiful) by Ejektaflex
 
 - [Break Free](https://modrinth.com/mod/breakfree) by Potota
@@ -76,6 +74,8 @@
 - [Chat Animation](https://modrinth.com/mod/chatanimation) by Ezzenix
 
 - [Chat Heads](https://modrinth.com/mod/chat-heads) by Dzwdz
+
+- [Cherished Worlds](https://modrinth.com/mod/cherished-worlds) by TheIllusiveC4
 
 - [Chipped](https://www.modrinth.com/mod/chipped) by Terrarium Studios
 
@@ -111,7 +111,7 @@
 
 - [Crops Love Rain](https://modrinth.com/mod/crops-love-rain) by ThePoultryMan
 
-- [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) by A5b84
+- [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) by Motschen
 
 - [Dark Paintings](https://modrinth.com/mod/dark-paintings) by Darkhax
 
@@ -135,6 +135,8 @@
 
 - [Eating Animation](https://modrinth.com/mod/eating-animation) by Theoness1
 
+- Elysium Days Tweaks by Fyoncle & Shizotoaster
+
 - [Elytra Slot](https://modrinth.com/mod/elytra-slot) by TheIllusiveC4
 
 - [Elytra Trims](https://modrinth.com/mod/elytra-trims) by KikuGie
@@ -150,8 +152,6 @@
 - [End Remastered](https://modrinth.com/mod/endrem) by Jack-Bagel
 
 - [Enderman Overhaul](https://modrinth.com/mod/enderman-overhaul) by Joo5h
-
-- [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) by Minenash
 
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe) by FoundationGames
 
@@ -189,6 +189,8 @@
 
 - [Furnace Recycle](https://modrinth.com/mod/furnace-recycle) by Serilum
 
+- [Game Menu Remove GFARB](https://modrinth.com/mod/gamemenuremovegfarb) by morimori0317
+
 - [Geckolib](https://modrinth.com/mod/geckolib) by Gecko
 
 - [Guard Villagers [Fabric]](https://modrinth.com/mod/guard-villagers) by Mrsterner
@@ -206,8 +208,6 @@
 - [HerdsPanic](https://modrinth.com/mod/herdspanic) by Globox1997
 
 - [Hero Proof](https://modrinth.com/datapack/hero-proof) by Eugene
-
-- [Highlight](https://modrinth.com/mod/highlight) by epic_oreo
 
 - [Hopo Better Ruined Portals](https://modrinth.com/datapack/hopo-better-ruined-portals) by Ohponopono
 
@@ -271,15 +271,11 @@
 
 - [Log Begone](https://modrinth.com/mod/log-begone) by AzureDoom
 
-- [Logical Zoom](https://modrinth.com/mod/logical-zoom) by LogicalGeekBoy
-
 - [M.R.U](https://modrinth.com/mod/mru) by Mineblock11
 
 - [MES - Moog's End Structures](https://modrinth.com/mod/mes-moogs-end-structures) by FinnSetchell
 
 - [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) by Tschipcraft
-
-- [Map Compass](https://modrinth.com/mod/map-compass) by Qendolin
 
 - [MasterCutter](https://modrinth.com/datapack/mastercutter) by Nico4play
 
@@ -341,6 +337,8 @@
 
 - [No Night Vision Flickering ](https://modrinth.com/mod/no-night-vision-flickering) by Semper-idem
 
+- [No Realms Button](https://modrinth.com/mod/no-realms-button) by Tigercrl
+
 - [No Resource Pack Warnings](https://modrinth.com/mod/no-resource-pack-warnings) by Space Walker
 
 - [No Telemetry](https://modrinth.com/mod/no-telemetry) by Kb1000
@@ -393,17 +391,15 @@
 
 - [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) by JamCoreModding
 
-- [Rotten flesh to Leather (Fabric/Quilt)](https://modrinth.com/mod/rotten-flesh-to-leather-mod-fabric) by CrebboElodie
-
 - [Scaffolding Drops Nearby](https://modrinth.com/mod/scaffolding-drops-nearby) by Serilum
-
-- [Seamless](https://modrinth.com/mod/seamless) by LarsMans
 
 - [Searchables](https://modrinth.com/mod/searchables) by Jaredlll08
 
 - [Secure Crops](https://modrinth.com/mod/secure-crops) by Zekk051
 
 - [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) by Exopandora
+
+- [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) by MisterPeModder
 
 - [Shulker Drops Two](https://modrinth.com/mod/shulker-drops-two) by Serilum
 
@@ -412,8 +408,6 @@
 - [Simple Netherite Horse Armor](https://modrinth.com/mod/simple-netherite-horse-armor) by JerryLu086
 
 - [Sit](https://modrinth.com/mod/bl4cks-sit) by Bl4ckscor3
-
-- [Skeleton Horse Spawn](https://modrinth.com/mod/skeleton-horse-spawn) by Serilum
 
 - [Smarter Farmers (farmers replant)](https://modrinth.com/mod/smarter-farmers-farmers-replant) by MehVahdJukaar
 
@@ -449,21 +443,19 @@
 
 - [The Lost Castle](https://modrinth.com/mod/the-lost-castle) by Jack-Bagel
 
-- [Tips](https://modrinth.com/mod/tips) by Darkhax
-
 - [TieredZ](https://modrinth.com/mod/tieredz) by Globox1997
 
 - [ToolTipFix](https://modrinth.com/mod/tooltipfix) by Kyrptonaught
 
 - [Torch hit!](https://modrinth.com/mod/torch-hit) by CrystalSpider
 
-- [Tree Harvester](https://modrinth.com/mod/tree-harvester) by Serilum
-
 - [TrimsEffects](https://modrinth.com/mod/trimseffects) by Lupin
 
 - [Trinkets](https://modrinth.com/mod/trinkets) by Emi
 
 - [True Ending: Ender Dragon Overhaul](https://modrinth.com/datapack/true-ending) by Limesplatus
+
+- [Universal Bone Meal](https://modrinth.com/mod/universal-bone-meal) by Fuzs
 
 - [Villager Names](https://modrinth.com/mod/villager-names-serilum) by Serilum
 
@@ -513,9 +505,7 @@
 
 - [You're in Grave Danger](https://modrinth.com/mod/yigd) by B1n-ry
 
-- [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) by shedaniel
-
-- [Zombie Horse Spawn](https://modrinth.com/mod/zombie-horse-spawn) by Serilum
+- [Zoomify](https://modrinth.com/mod/zoomify) by isxander
 
 - [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features) by Traben
 
@@ -542,7 +532,7 @@
 </details>
 
 <details>
-<summary>Resource Packs (16)</summary>
+<summary>Resource Packs (18)</summary>
 
 - [Cherry Background](https://modrinth.com/resourcepack/cherry-background) by Kryqu
 
@@ -561,6 +551,10 @@
 - [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player) by TrasTick and Ithan!
 
 - [GUI Revision](https://modrinth.com/resourcepack/gui-revision) by Vixel
+
+- [Icons](https://modrinth.com/resourcepack/icons) by WeNAN
+
+- [Icons Advertisement Removal](https://modrinth.com/resourcepack/icons-advertisement-removal) by vexcenot
 
 - [Low On Fire](https://modrinth.com/resourcepack/low-on-fire) by Haikis
 

@@ -23,7 +23,11 @@
 - **New Archeology** ☠️ What if you accidentaly find a dragon skull...?
 - **Warden Dimension** 🌌 Did you ever wonder how below the bedrock looks like?
 - **The End** 🔮 Now the end is a mystery, it will not be easy to find it... _~~**[Tip; Maxed Cartographer Villager]**~~_
+#
 
+If you counter any glitches & crashes, or if you have any suggestions you can tell me by joining [Discord](https://discord.gg/WFpDr7zY8Z) or either opening a issue on [GitHub](https://github.com/Fyoncle/Elysium-Days/issues)
+
+Currently any version except 1.20.1 not planned for now, The **LTS [Long Term Support]** Version will be **1.20.1**
 ## Credits
 Thanks so much to [Shizotoaster](https://github.com/shizotoaster) for helping with optimization and **Elysium Days Tweaks** Mod and more!
 

@@ -25,7 +25,7 @@
 - **The End** 🔮 Now the end is a mystery, it will not be easy to find it... _~~**[Tip; Maxed Cartographer Villager]**~~_
 
 ## Credits
-Thanks so much to [Shizotoaster](https://github.com/shizotoaster) for helping with optimization and lots of other things!
+Thanks so much to [Shizotoaster](https://github.com/shizotoaster) for helping with optimization and **Elysium Days Tweaks** Mod and more!
 
 Special thanks to [Enderverse](https://www.youtube.com/@EnderVerseMC) for including my modpack in [his video](https://youtu.be/ar6Wi7GKLQI?t=191), it really helped!
 

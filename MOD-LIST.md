@@ -1,7 +1,7 @@
 # Complete Mod List Of Elysium Days
 
 <details>
-<summary>Mod List (269)</summary>
+<summary>Mod List (272)</summary>
   
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) by tr7zw
 
@@ -13,7 +13,9 @@
 
 - [Ambient Enviorment](https://modrinth.com/mod/ambient-environment) by Jaredlll08
 
-- [AmbientSounds](https://modrinth.com/mod/ambientsounds) by Creativemd
+- [AmbientSounds](https://modrinth.com/mod/ambientsounds) by creativemd
+
+- [Amendments](https://modrinth.com/mod/amendments) by MehVahdJukaar
 
 - [AppleSkin](https://modrinth.com/mod/appleskin) by Squeek502
 
@@ -103,6 +105,8 @@
 
 - [Controlling](https://modrinth.com/mod/controlling) by Jaredlll08
 
+- [Craftable Horse Armour & Saddle [CHA&S]](https://modrinth.com/mod/cha-s) by Ewy
+
 - [Crawl](https://modrinth.com/mod/crawl) by Fewizz
 
 - [CreativeCore](https://modrinth.com/mod/creativecore) by Creativemd
@@ -110,6 +114,8 @@
 - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul) by Joo5h
 
 - [Crops Love Rain](https://modrinth.com/mod/crops-love-rain) by ThePoultryMan
+
+- [Crying Portals](https://modrinth.com/mod/crying-portals) by Serilum
 
 - [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) by Motschen
 
@@ -213,6 +219,8 @@
 
 - [Hopo Better Underwater Ruins](https://modrinth.com/datapack/better-underwater-ruins) by Ohponopono
 
+- [Horse Buff](https://modrinth.com/mod/horsebuff) by F53
+
 - [Horse Expert](https://modrinth.com/mod/horse-expert) by Fuzs
 
 - [Iceberg](https://modrinth.com/mod/iceberg) by Grend
@@ -239,6 +247,8 @@
 
 - [Item Highlighter](https://modrinth.com/mod/item-highlighter) by Grend
 
+- [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite) by creativemd
+
 - [JamLib](https://modrinth.com/mod/jamlib) by JamCoreModding
 
 - [Jump Over Fences](https://modrinth.com/mod/jump-over-fences) by Kreezxil
@@ -259,7 +269,7 @@
 
 - [Language Reload](https://modrinth.com/mod/language-reload) by Jerozgen
 
-- [Lanterns Belong On Walls](https://modrinth.com/mod/lanterns-bow) by ThePoultryMan
+- [Leaf Me Alone](https://modrinth.com/mod/leaf-me-alone) by Nord_Act
 
 - [Leaves Be Gone](https://modrinth.com/mod/leaves-be-gone) by Fuzs
 
@@ -521,10 +531,6 @@
 
 - [[Let's Do] Meadow](https://modrinth.com/mod/lets-do-meadow) by Satisfyu
 
-- [amendments](https://modrinth.com/mod/amendments) by MehVahdJukaar
-
-- [cat_jam](https://modrinth.com/mod/cat_jam) by Shmove
-
 - [e4mc](https://modrinth.com/mod/e4mc) by Vgskye
 
 - [playerAnimator](https://modrinth.com/mod/playeranimator) by KosmX
@@ -532,7 +538,9 @@
 </details>
 
 <details>
-<summary>Resource Packs (18)</summary>
+<summary>Resource Packs (22)</summary>
+
+- [Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes) by Futureazoo
 
 - [Cherry Background](https://modrinth.com/resourcepack/cherry-background) by Kryqu
 
@@ -543,6 +551,8 @@
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants) by Mythitorium
 
 - [Freshly Modded](https://modrinth.com/resourcepack/freshly-modded) by SebSemos
+
+- [Fancy Crops](https://modrinth.com/resourcepack/fancy-crops) by bebebea_loste
 
 - [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass) by robotkoer
 
@@ -558,6 +568,8 @@
 
 - [Low On Fire](https://modrinth.com/resourcepack/low-on-fire) by Haikis
 
+- [Luminous](https://www.curseforge.com/minecraft/texture-packs/luminous) by Techy69 and slightly modified for the modpack by Fyoncle
+
 - [More Mob Variants x Fresh Animations](https://modrinth.com/resourcepack/more-mob-variants-fresh-animations-addon) by Nyuppo
 
 - [RAY's 3D Ladders](https://modrinth.com/resourcepack/rays-3d-ladders) by xR4YM0ND
@@ -569,6 +581,8 @@
 - [Shiny Ores](https://modrinth.com/resourcepack/shiny-ores-countxd) by CountXD
 
 - [Tissou's Zombie Pack](https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-19) by Tissou ~~_[I have permission from Tissou to add this resource pack.]_~~
+
+- [Translations for Sodium](https://modrinth.com/resourcepack/translations-for-sodium) by robotkoer
 
 </details>
 <details>

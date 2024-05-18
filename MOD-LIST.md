@@ -1,7 +1,7 @@
 # Complete Mod List Of Elysium Days
 
 <details>
-<summary>Mod List (272)</summary>
+<summary>Mod List (276)</summary>
   
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) by tr7zw
 
@@ -72,6 +72,8 @@
 - [Camps. Castles. Carriages.](https://modrinth.com/mod/camps_castles_carriages) by Eugene
 
 - [Capes](https://modrinth.com/mod/capes) by Caelthecolher
+
+- [Charm Of Undying](https://modrinth.com/mod/charm-of-undying) by TheIllusiveC4
 
 - [Chat Animation](https://modrinth.com/mod/chatanimation) by Ezzenix
 
@@ -195,6 +197,8 @@
 
 - [Furnace Recycle](https://modrinth.com/mod/furnace-recycle) by Serilum
 
+- [GUI Clock](https://modrinth.com/mod/gui-clock) by Serilum
+
 - [Game Menu Remove GFARB](https://modrinth.com/mod/gamemenuremovegfarb) by morimori0317
 
 - [Geckolib](https://modrinth.com/mod/geckolib) by Gecko
@@ -238,8 +242,6 @@
 - [InvMove](https://modrinth.com/mod/invmove) by PieKing1215
 
 - [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) by Kyrptonaught
-
-- [Inventory Totem](https://modrinth.com/mod/inventory-totem) by Serilum
 
 - [Iris Shaders](https://modrinth.com/mod/iris) by Coderbot
 
@@ -371,6 +373,8 @@
 
 - [Passive Shield](https://modrinth.com/mod/passive-shield) by Serilum
 
+- [Paxi](https://modrinth.com/mod/paxi) by YUNGNICKYOUNG
+
 - [Philip's Ruins](https://modrinth.com/mod/philips-ruins) by PhilipModDev
 
 - [Polymorph](https://modrinth.com/mod/polymorph) by TheIllusiveC4
@@ -467,6 +471,8 @@
 
 - [Universal Bone Meal](https://modrinth.com/mod/universal-bone-meal) by Fuzs
 
+- [Unsafe World Random Access Detector](https://modrinth.com/mod/uwrad) by ishland
+
 - [Villager Names](https://modrinth.com/mod/villager-names-serilum) by Serilum
 
 - [Villager Transportation](https://modrinth.com/datapack/villager-transportation) by Jaffthry
@@ -538,7 +544,7 @@
 </details>
 
 <details>
-<summary>Resource Packs (22)</summary>
+<summary>Resource Packs (24)</summary>
 
 - [Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes) by Futureazoo
 
@@ -584,6 +590,10 @@
 
 - [Translations for Sodium](https://modrinth.com/resourcepack/translations-for-sodium) by robotkoer
 
+- [AVPBR](https://www.curseforge.com/minecraft/texture-packs/avpbr) by JoaquiX
+
+- [AVPBR Retextured](https://modrinth.com/resourcepack/avpbr-retextured) by JoaquiX
+
 </details>
 <details>
 <summary>Shaders (4)</summary>
@@ -626,5 +636,9 @@
 - [Let Sleeping Dogs Lie](https://modrinth.com/mod/let-sleeping-dogs-lie) Incompatible with Fresh Animations
 
 - [SleepWarp](https://modrinth.com/mod/sleep-warp) Causing Crashes
+
+- [cat_jam](https://modrinth.com/mod/cat_jam) Incompatible with Fresh Animations
+
+- [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone) Incompatible with Kaffee's Dual Ride
   
 </details>

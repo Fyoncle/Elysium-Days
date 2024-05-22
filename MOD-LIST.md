@@ -17,6 +17,8 @@
 
 - [Amendments](https://modrinth.com/mod/amendments) by MehVahdJukaar
 
+- [Animal Feeding Trough](https://modrinth.com/mod/animal_feeding_trough) by Slexom
+
 - [AppleSkin](https://modrinth.com/mod/appleskin) by Squeek502
 
 - [Architectury API](https://modrinth.com/mod/architectury-api) by MaxNeedsSnacks
@@ -33,19 +35,15 @@
 
 - [Balm](https://modrinth.com/mod/balm) by BlayTheNinth
 
-- [Better Archeology](https://modrinth.com/mod/better-archeology) by Pandarix
+- [Beautify: Refabricated](https://modrinth.com/mod/beautify-refabricated) by Suel_ki
 
-- [Better Clouds](https://modrinth.com/mod/better-clouds) by Qendolin
+- [Better Archeology](https://modrinth.com/mod/better-archeology) by Pandarix
 
 - [Better Combat](https://modrinth.com/mod/better-combat) by ZsoltMolnarrr
 
 - [Better Conduit Placement](https://modrinth.com/mod/better-conduit-placement) by Serilum
 
-- [Better End Sky](https://modrinth.com/mod/better-end-sky) by PinkGoosik
-
 - [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) by Lortseam
-
-- [Bether Nether Map](https://modrinth.com/mod/better-nether-map) by Jummit
 
 - [Better Ping Display [Fabric]](https://modrinth.com/mod/better-ping-display-fabric) by Vladmarica
 
@@ -68,6 +66,10 @@
 - [Bushier Flowers](https://modrinth.com/mod/bushier-flowers) by Pandarix
 
 - CIT Resewn (URL didn't work so no link for that) by Shsupercm
+
+- [Cake Chomps](https://modrinth.com/mod/cake-chomps) by TheIllusiveC4
+
+- [Calm down, dog!](https://modrinth.com/mod/calm-down-dog) by F14M3-C
 
 - [Camps. Castles. Carriages.](https://modrinth.com/mod/camps_castles_carriages) by Eugene
 
@@ -131,11 +133,11 @@
 
 - [Dismount Entity](https://modrinth.com/mod/dismount-entity) by Serilum
 
+- [Distracting Trims](https://modrinth.com/mod/distracting-trims) by Darkhax
+
 - [Double Doors](https://modrinth.com/mod/double-doors) by Serilum
 
 - [Drip Sounds [Fabric]](https://modrinth.com/mod/dripsounds-fabric) by PieKing1215
-
-- [Durability Viewer](https://modrinth.com/mod/durabilityviewer) by Giselbaer
 
 - [Easy Anvils](https://modrinth.com/mod/easy-anvils) by Fuzs
 
@@ -180,8 +182,6 @@
 - [Fadeless](https://modrinth.com/mod/fadeless/versions) by DerpDerpling
 
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves) by Fourmisain
-
-- [FastAnim](https://modrinth.com/mod/fastanim) by Lunade_
 
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) by Malte0811
 
@@ -297,6 +297,8 @@
 
 - [MidnightLib](https://modrinth.com/mod/midnightlib) by Motschen
 
+- [MixinTrace](https://modrinth.com/mod/mixintrace) by comp500
+
 - [Mob Filter](https://modrinth.com/mod/mobfilter) by pcal43
 
 - [Mobs Attempt Parkour](https://modrinth.com/mod/mobs-attempt-parkour) by Barribob
@@ -349,13 +351,9 @@
 
 - [No Night Vision Flickering ](https://modrinth.com/mod/no-night-vision-flickering) by Semper-idem
 
-- [No Realms Button](https://modrinth.com/mod/no-realms-button) by Tigercrl
-
-- [No Resource Pack Warnings](https://modrinth.com/mod/no-resource-pack-warnings) by Space Walker
-
 - [No Telemetry](https://modrinth.com/mod/no-telemetry) by Kb1000
 
-- [No Narrator](https://modrinth.com/mod/nonarrator) by 545u
+- [Noisium](https://modrinth.com/mod/noisium) by Steveplays
 
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) by Tr7zw
 
@@ -373,6 +371,8 @@
 
 - [Passive Shield](https://modrinth.com/mod/passive-shield) by Serilum
 
+- [Path Under Fence Gates](https://modrinth.com/mod/pathunderfencegates) by Steveplays
+
 - [Paxi](https://modrinth.com/mod/paxi) by YUNGNICKYOUNG
 
 - [Philip's Ruins](https://modrinth.com/mod/philips-ruins) by PhilipModDev
@@ -387,7 +387,9 @@
 
 - [Realistic Sleep](https://modrinth.com/mod/realisticsleep) by Steveplays
 
-- [Rebalanced Loot](https://modrinth.com/mod/rebalanced-loot) by Apollo
+- [Realms Button Remover](https://modrinth.com/mod/realms-button-remover) by BluCobalt
+
+- [Rebind Narrator](https://modrinth.com/mod/rebind-narrator) by quat
 
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
 
@@ -418,6 +420,8 @@
 - [Shulker Drops Two](https://modrinth.com/mod/shulker-drops-two) by Serilum
 
 - [Shut Up GL Error](https://modrinth.com/mod/shut-up-gl-error) by JamCoreModding
+
+- [Simple Armor Hud](https://modrinth.com/mod/simple-armor-hud) by legoraft
 
 - [Simple Netherite Horse Armor](https://modrinth.com/mod/simple-netherite-horse-armor) by JerryLu086
 
@@ -463,8 +467,6 @@
 
 - [Torch hit!](https://modrinth.com/mod/torch-hit) by CrystalSpider
 
-- [TrimsEffects](https://modrinth.com/mod/trimseffects) by Lupin
-
 - [Trinkets](https://modrinth.com/mod/trinkets) by Emi
 
 - [True Ending: Ender Dragon Overhaul](https://modrinth.com/datapack/true-ending) by Limesplatus
@@ -482,6 +484,8 @@
 - [Villages&Pillages](https://modrinth.com/mod/villages-and-pillages) by Faboslav
 
 - [Visuality](https://modrinth.com/mod/visuality) by PinkGoosik
+
+- [Wavey Capes](https://modrinth.com/mod/wavey-capes) by tr7zw
 
 - [Weaker Spiderwebs](https://modrinth.com/mod/weaker-spiderwebs) by Serilum
 

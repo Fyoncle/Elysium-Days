@@ -241,6 +241,8 @@
 
 - [InvMove](https://modrinth.com/mod/invmove) by PieKing1215
 
+- [InvMoveCompats](https://modrinth.com/mod/invmovecompats) by PieKing1215
+
 - [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) by Kyrptonaught
 
 - [Iris Shaders](https://modrinth.com/mod/iris) by Coderbot
@@ -353,7 +355,7 @@
 
 - [No Telemetry](https://modrinth.com/mod/no-telemetry) by Kb1000
 
-- [Noisium](https://modrinth.com/mod/noisium) by Steveplays
+- [NoNarrator](https://modrinth.com/mod/nonarrator)
 
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) by Tr7zw
 
@@ -388,8 +390,6 @@
 - [Realistic Sleep](https://modrinth.com/mod/realisticsleep) by Steveplays
 
 - [Realms Button Remover](https://modrinth.com/mod/realms-button-remover) by BluCobalt
-
-- [Rebind Narrator](https://modrinth.com/mod/rebind-narrator) by quat
 
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
 
@@ -548,11 +548,9 @@
 </details>
 
 <details>
-<summary>Resource Packs (24)</summary>
+<summary>Resource Packs (23)</summary>
 
 - [Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes) by Futureazoo
-
-- [Cherry Background](https://modrinth.com/resourcepack/cherry-background) by Kryqu
 
 - [Embrace Pixels](https://modrinth.com/resourcepack/embrace-pixels) by Mwti _~~[Shader with LabPBR and specific settings only, check resource pack page for more information.]~~_
 

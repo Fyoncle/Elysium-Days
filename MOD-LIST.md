@@ -1,7 +1,7 @@
 # Complete Mod List Of Elysium Days
 
 <details>
-<summary>Mod List (276)</summary>
+<summary>Mod List (272)</summary>
   
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) by tr7zw
 
@@ -30,6 +30,8 @@
 - [AutoTag](https://modrinth.com/mod/autotag) by Apace
 
 - [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons) by Fourmisain
+
+- [Backported Wolves](https://modrinth.com/mod/backported-wolves) by EmilSG
 
 - [Bad Optimizations](https://modrinth.com/mod/badoptimizations) by Thosea
 
@@ -171,8 +173,6 @@
 
 - [Exposure](https://modrinth.com/mod/exposure) by Mortuusars
 
-- [FPS Display](https://modrinth.com/mod/fpsdisplay) by Grayray75
-
 - [Fabric API](https://modrinth.com/mod/fabric-api) by Modmuss50
 
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) by Modmuss50
@@ -196,8 +196,6 @@
 - [Friendly Fire](https://modrinth.com/mod/friendly-fire) by Darkhax
 
 - [Furnace Recycle](https://modrinth.com/mod/furnace-recycle) by Serilum
-
-- [GUI Clock](https://modrinth.com/mod/gui-clock) by Serilum
 
 - [Game Menu Remove GFARB](https://modrinth.com/mod/gamemenuremovegfarb) by morimori0317
 
@@ -305,8 +303,6 @@
 
 - [Mobs Attempt Parkour](https://modrinth.com/mod/mobs-attempt-parkour) by Barribob
 
-- [Mod Detection Preventer](https://modrinth.com/mod/moddetectionpreventer) by JustAlittleWolf
-
 - [Mod Menu](https://modrinth.com/mod/modmenu) by ProspectorLead
 
 - [Model Gap Fix](https://modrinth.com/mod/modelfix) by MehVahdJukaar
@@ -328,8 +324,6 @@
 - [More Axolotl Variants Mod](https://modrinth.com/mod/mavm) by AkashiiKun
 
 - [More Culling](https://modrinth.com/mod/moreculling) by FX
-
-- [More Mob Variants](https://modrinth.com/mod/more-mob-variants) by Nyuppo
 
 - [MoreMcmeta](https://modrinth.com/mod/moremcmeta) by soir20
 
@@ -360,8 +354,6 @@
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) by Tr7zw
 
 - [Not Enough Recipe Book [NERB]](https://modrinth.com/mod/nerb) by Sskirillss
-
-- [Noxesium](https://modrinth.com/mod/noxesium) by Aeltumn
 
 - [Nullscape](https://modrinth.com/mod/nullscape) by StardustLabs
 
@@ -423,6 +415,8 @@
 
 - [Simple Armor Hud](https://modrinth.com/mod/simple-armor-hud) by legoraft
 
+- [Simple HUD Enhanced](https://modrinth.com/mod/simple-hud-enhanced) by SoRadGaming
+
 - [Simple Netherite Horse Armor](https://modrinth.com/mod/simple-netherite-horse-armor) by JerryLu086
 
 - [Sit](https://modrinth.com/mod/bl4cks-sit) by Bl4ckscor3
@@ -462,8 +456,6 @@
 - [The Lost Castle](https://modrinth.com/mod/the-lost-castle) by Jack-Bagel
 
 - [TieredZ](https://modrinth.com/mod/tieredz) by Globox1997
-
-- [ToolTipFix](https://modrinth.com/mod/tooltipfix) by Kyrptonaught
 
 - [Torch hit!](https://modrinth.com/mod/torch-hit) by CrystalSpider
 
@@ -548,7 +540,7 @@
 </details>
 
 <details>
-<summary>Resource Packs (23)</summary>
+<summary>Resource Packs (24)</summary>
 
 - [Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes) by Futureazoo
 
@@ -566,6 +558,8 @@
 
 - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) by FreshLX
 
+- [Fresh Wolves Variants](https://modrinth.com/resourcepack/fresh-wolves-variants) by Eugene
+
 - [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player) by TrasTick and Ithan!
 
 - [GUI Revision](https://modrinth.com/resourcepack/gui-revision) by Vixel
@@ -576,9 +570,9 @@
 
 - [Low On Fire](https://modrinth.com/resourcepack/low-on-fire) by Haikis
 
-- [Luminous](https://www.curseforge.com/minecraft/texture-packs/luminous) by Techy69 and slightly modified for the modpack by Fyoncle
+- [Bray's World](https://modrinth.com/resourcepack/braysworld) by Braytonks (Modified)
 
-- [More Mob Variants x Fresh Animations](https://modrinth.com/resourcepack/more-mob-variants-fresh-animations-addon) by Nyuppo
+- [Luminous](https://www.curseforge.com/minecraft/texture-packs/luminous) by Techy69 and slightly modified for the modpack by Fyoncle
 
 - [RAY's 3D Ladders](https://modrinth.com/resourcepack/rays-3d-ladders) by xR4YM0ND
 
@@ -642,5 +636,8 @@
 - [cat_jam](https://modrinth.com/mod/cat_jam) Incompatible with Fresh Animations
 
 - [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone) Incompatible with Kaffee's Dual Ride
-  
+
+- [FastAnim](https://modrinth.com/mod/fastanim) Incompatible with Fresh Animations
+
 </details>
+

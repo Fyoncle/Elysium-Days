@@ -12,17 +12,17 @@
 
 ## What is that modpack about?
 - **New Biomes** 🌎 Will you be able to visit all 90+ new biomes?
-- **New Blocks** 🧊 Plenty of new blocks to make your new home with!
-- **New Structures** 🧱 Now all the structures in the game have a new look...
-- **Backpacks** 🎒 Now you can explore as much as you want!
+- **New Blocks** 🧊 Plenty of new blocks to make a cozy house with! (1000+ Block Variants)
+- **New Structures** 🏰 Always wanted to reimagine the vanilla structures?...
+- **Backpacks** 🎒 Now you can adventure for hours without fearing your inventory capacity!
 - **New Quests** 🎯 You can take bounty quests from villages!
-- **Farming** 🌽 Now you can do baking and lot of other farm related things!
+- **Culinary Arts** 🍞 Now you can do baking and lot of other farm related things!
 - **Photography** 📷 Now you can flex on your friends by taking photos of your shaders!
-- **New Animals** 🐘 I think it's time to start a zoo...
+- **New Animals** 🐻 I think it's time to start a zoo, isn't it?...
 - **New Sounds** 🔊 The sounds of the game gonna make you feel like you're in an adventure series!
-- **New Archeology** ☠️ What if you accidentaly find a dragon skull...?
+- **New Archeology** ☠️ You can now feel like a true archaeologist with this new features!
 - **Warden Dimension** 🌌 Did you ever wonder how below the bedrock looks like?
-- **The End** 🔮 Now the end is a mystery, it will not be easy to find it... _~~**[Tip; Maxed Cartographer Villager]**~~_
+- **The End** 🔮 Now the end is a mystery, it's lost somewhere... _~~**[Tip; Maxed Cartographer Villager]**~~_
 #
 
 If you counter any glitches & crashes, or if you have any suggestions you can tell me by joining [Discord](https://discord.gg/WFpDr7zY8Z) or either opening a issue on [GitHub](https://github.com/Fyoncle/Elysium-Days/issues)

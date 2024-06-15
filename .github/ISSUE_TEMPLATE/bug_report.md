@@ -7,6 +7,9 @@ assignees: Fyoncle
 
 ---
 
+- [ ] I have checked that theres no other similar issue opened about this bug.
+- [ ] I have checked the [Known Issues](https://github.com/Fyoncle/Elysium-Days/wiki/Known-Issues-&-Fixes) Wiki and my issue is not there.
+
 **Describe the bug**
 Explanation of what is the bug about.
 

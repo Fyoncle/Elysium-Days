@@ -17,9 +17,7 @@ body:
             bug.
           required: true
         - label: >-
-            I have checked the [Known
-            Issues](https://github.com/Fyoncle/Elysium-Days/wiki/Known-Issues-&-Fixes)
-            Wiki and my issue is not there.
+            I have checked the https://github.com/Fyoncle/Elysium-Days/wiki/Known-Issues-&-Fixes Wiki and my issue is not there.
           required: true
   - type: input
     id: modpackversion

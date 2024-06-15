@@ -1,10 +1,10 @@
-name: Bug report
-description: This form is for a issue you are experiencing with the modpack.
+name: Bug Report
+description: 'This form is for a issue you are experiencing with the modpack. '
 title: '[Bug]: '
-labels: 
-- bug
 assignees:
-- Fyoncle
+  - Fyoncle
+labels: 
+  - bug
 body:
   - type: checkboxes
       id: importantsteps

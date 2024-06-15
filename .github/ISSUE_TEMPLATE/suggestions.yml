@@ -1,0 +1,56 @@
+---
+name: Suggestion
+description: 'This form is to make a suggestion for the modpack. '
+title: '[Suggestion]: '
+assignees:
+  - Fyoncle
+labels:
+  - suggestion
+body:
+  - type: checkboxes
+    id: importantsteps
+    attributes:
+      label: Important Steps
+      description: The steps you have to complete before opening a issue.
+      options:
+        - label: >-
+            I checked that no other suggestions were opened similar to this suggestion.
+          required: true
+  - type: input
+    id: modpackversion
+    attributes:
+      label: Modpack Version
+      description: Which Elysium Days version you using?
+      placeholder: 3.5.0
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Suggestion Description
+      description: A clear explanation of the suggestion you want.
+      placeholder: I want the mod called "X" to be added into the modpack. Because it's very cool!
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it should be added into Elysium Days?
+      description: List reasons about why this mod is needed to be included in Elysium Days.
+      placeholder: |
+        1. It will make players more comfortable while playing the game
+        2. It will make things easier WITHOUT breaking vanilla vibe.
+        3. It is a mod that is suitable for Elysium Days and it would be nice to see it.
+     validations:
+       required: false
+  - type: textarea
+    id: not
+    attributes:
+      label: Wht it SHOULDN'T be added into Elysium Days?
+      description: Give reasons about why this mod is shouldn't be added into Elysium Days, basically downsides, bugs, or any other thing you experienced, or an incompatibility.
+      placeholder: |
+        1. It is incompatible with the mod called "X" in the Elysium Days modpack.
+        2. It crashing
+        3. It is not working correctly in some specific situations.
+     validations:
+       required: false

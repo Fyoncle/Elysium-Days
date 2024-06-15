@@ -3,21 +3,25 @@ description: 'This form is for a issue you are experiencing with the modpack. '
 title: '[Bug]: '
 assignees:
   - Fyoncle
-labels: 
+labels:
   - bug
 body:
   - type: checkboxes
-      id: importantsteps
-      attributes:
-        label: Important Steps
-        description:  |
-        The steps you have to complete before opening a issue.
-        options:
-          - label: I have checked that theres no other similar issue opened about this bug.
-            required: true
-          - label: I have checked the [Known Issues](https://github.com/Fyoncle/Elysium-Days/wiki/Known-Issues-&-Fixes) Wiki and my issue is not there.
-            required: true
-- type: input
+    id: importantsteps
+    attributes:
+      label: Important Steps
+      description: The steps you have to complete before opening a issue.
+      options:
+        - label: >-
+            I have checked that theres no other similar issue opened about this
+            bug.
+          required: true
+        - label: >-
+            I have checked the [Known
+            Issues](https://github.com/Fyoncle/Elysium-Days/wiki/Known-Issues-&-Fixes)
+            Wiki and my issue is not there.
+          required: true
+  - type: input
     id: modpackversion
     attributes:
       label: Modpack Version
@@ -30,16 +34,14 @@ body:
     attributes:
       label: Bug Description
       description: A clear explanation of the issue.
-      placeholder: >-
-        My game crashes when trying to create a world.
+      placeholder: My game crashes when trying to create a world.
     validations:
       required: true
   - type: textarea
     id: steps
     attributes:
       label: Steps to reproduce
-      description: >-
-        Steps to reproduce the issue you're experiencing.
+      description: Steps to reproduce the issue you're experiencing.
       placeholder: |
         1. Install Latest Elysium Days
         2. Join A World
@@ -49,6 +51,7 @@ body:
     id: logs
     attributes:
       label: Log File
-      description: |
-        Please upload the logs to the [mclo.gs](https://mclo.gs/) site, not as text.
-      placeholder: https://mclo.gs/.....
+      description: >
+        Please upload the logs to the [mclo.gs](https://mclo.gs/) site, not as
+        text.
+      placeholder: 'https://mclo.gs/.....'

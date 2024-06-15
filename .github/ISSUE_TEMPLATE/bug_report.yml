@@ -7,7 +7,7 @@ assignees:
 - Fyoncle
 body:
 - type: checkboxes
-    id: important
+    id: importantsteps
     attributes:
       label: Important Steps
       options:
@@ -16,29 +16,37 @@ body:
         - label: I have checked the [Known Issues](https://github.com/Fyoncle/Elysium-Days/wiki/Known-Issues-&-Fixes) Wiki and my issue is not there.
           required: true
 - type: input
-    id: modpack
+    id: modpackversion
     attributes:
       label: Modpack Version
       description: Which Elysium Days version you using?
       placeholder: 3.5.0
     validations:
       required: true
-
-**Describe the bug**
-Explanation of what is the bug about.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Additional context**
-Add any other context about the problem here.
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear explanation of the issue.
+      placeholder: >-
+        My game crashes when trying to create a world.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: >-
+        Steps to reproduce the issue you're experiencing.
+      placeholder: |
+        1. Install Latest Elysium Days
+        2. Join A World
+        3. Click the X block
+        4. See the crash
+  - type: input
+    id: logs
+    attributes:
+      label: Log File
+      description: |
+        Please upload the logs to the [mclo.gs](https://mclo.gs/) site, not as text.
+      placeholder: https://mclo.gs/.....

@@ -1,4 +1,3 @@
----
 name: Suggestion
 description: 'This form is to make a suggestion for the modpack. '
 title: '[Suggestion]: '
@@ -41,7 +40,7 @@ body:
         1. It will make players more comfortable while playing the game
         2. It will make things easier WITHOUT breaking vanilla vibe.
         3. It is a mod that is suitable for Elysium Days and it would be nice to see it.
-     validations:
+    validations:
        required: false
   - type: textarea
     id: not
@@ -52,5 +51,5 @@ body:
         1. It is incompatible with the mod called "X" in the Elysium Days modpack.
         2. It crashing
         3. It is not working correctly in some specific situations.
-     validations:
+    validations:
        required: false

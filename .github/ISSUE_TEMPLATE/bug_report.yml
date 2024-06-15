@@ -1,20 +1,22 @@
 name: Bug report
-about: Create a report to help us improve
+description: This form is for a issue you are experiencing with the modpack.
 title: '[Bug]: '
 labels: 
 - bug
 assignees:
 - Fyoncle
 body:
-- type: checkboxes
-    id: importantsteps
-    attributes:
-      label: Important Steps
-      options:
-        - label: I have checked that theres no other similar issue opened about this bug.
-          required: true
-        - label: I have checked the [Known Issues](https://github.com/Fyoncle/Elysium-Days/wiki/Known-Issues-&-Fixes) Wiki and my issue is not there.
-          required: true
+  - type: checkboxes
+      id: importantsteps
+      attributes:
+        label: Important Steps
+        description:  |
+        The steps you have to complete before opening a issue.
+        options:
+          - label: I have checked that theres no other similar issue opened about this bug.
+            required: true
+          - label: I have checked the [Known Issues](https://github.com/Fyoncle/Elysium-Days/wiki/Known-Issues-&-Fixes) Wiki and my issue is not there.
+            required: true
 - type: input
     id: modpackversion
     attributes:

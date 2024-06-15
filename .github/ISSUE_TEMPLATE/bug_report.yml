@@ -5,12 +5,18 @@ labels:
 - bug
 assignees:
 - Fyoncle
-
-- [ ] I have checked that theres no other similar issue opened about this bug.
-- [ ] I have checked the [Known Issues](https://github.com/Fyoncle/Elysium-Days/wiki/Known-Issues-&-Fixes) Wiki and my issue is not there.
-
+body:
+- type: checkboxes
+    id: important
+    attributes:
+      label: Important Steps
+      options:
+        - label: I have checked that theres no other similar issue opened about this bug.
+          required: true
+        - label: I have checked the [Known Issues](https://github.com/Fyoncle/Elysium-Days/wiki/Known-Issues-&-Fixes) Wiki and my issue is not there.
+          required: true
 - type: input
-    id: minecraft
+    id: modpack
     attributes:
       label: Modpack Version
       description: Which Elysium Days version you using?

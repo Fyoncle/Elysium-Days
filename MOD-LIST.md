@@ -33,8 +33,6 @@
 
 - [Backported Wolves](https://modrinth.com/mod/backported-wolves) by EmilSG
 
-- [Bad Optimizations](https://modrinth.com/mod/badoptimizations) by Thosea
-
 - [Balm](https://modrinth.com/mod/balm) by BlayTheNinth
 
 - [Beautify: Refabricated](https://modrinth.com/mod/beautify-refabricated) by Suel_ki
@@ -467,6 +465,8 @@
 
 - [Unsafe World Random Access Detector](https://modrinth.com/mod/uwrad) by ishland
 
+- [Vein Mining](https://modrinth.com/mod/vein-mining) by TheIllusiveC4
+
 - [Villager Names](https://modrinth.com/mod/villager-names-serilum) by Serilum
 
 - [Villager Transportation](https://modrinth.com/datapack/villager-transportation) by Jaffthry
@@ -609,7 +609,7 @@
 
 - [Smooth GUI](https://modrinth.com/mod/smooth-gui) Having Problems With Debugify
 
-- [Farmer's Delight Fabric](https://modrinth.com/mod/farmers-delight-fabric) Having incompatibility with many other mod updates.
+- [[Deprecated] Farmer's Delight [Fabric]](https://modrinth.com/mod/farmers-delight-fabric) Having incompatibility with many other mod updates.
 
 - [Merchant Markers](https://modrinth.com/mod/merchant-markers) Resource loading failed error.
 
@@ -639,5 +639,6 @@
 
 - [FastAnim](https://modrinth.com/mod/fastanim) Incompatible with Fresh Animations
 
-</details>
+- [More Mob Variants](https://modrinth.com/mod/more-mob-variants) Incompatible with Let's Do Meadow
 
+</details>

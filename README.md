@@ -10,7 +10,7 @@
 <a href="https://github.com/Fyoncle/Elysium-Days/blob/main/MOD-LIST.md"><img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/135609a7-1c13-419a-91eb-6f5df05e59f6" alt="Wikit" style="width:20%; height:auto;"></a>
 <a href="https://github.com/Fyoncle/Elysium-Days/issues"><img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/1180fffe-2e90-4d93-bd59-e82f24aa3f6a" alt="Issue Report" style="width:20%; height:auto;"></a>
 
-## What is that modpack about?
+## What does this modpack provide?
 - **New Biomes** 🌎 Will you be able to visit all 90+ new biomes?
 - **New Blocks** 🧊 Plenty of new blocks to make a cozy house with! (1000+ Block Variants)
 - **New Structures** 🏰 Always wanted to reimagine the vanilla structures?...
@@ -20,7 +20,7 @@
 - **Photography** 📷 Now you can flex on your friends by taking photos of your shaders!
 - **New Animals** 🐻 I think it's time to start a zoo, isn't it?...
 - **New Sounds** 🔊 The sounds of the game gonna make you feel like you're in an adventure series!
-- **New Archeology** ☠️ You can now feel like a true archaeologist with this new features!
+- **New Archeology** ☠️ You can now feel like a true archaeologist with this new tools and items!
 - **Warden Dimension** 🌌 Did you ever wonder how below the bedrock looks like?
 - **The End** 🔮 Now the end is a mystery, it's lost somewhere... _~~**[Tip; Maxed Cartographer Villager]**~~_
 #
@@ -31,6 +31,8 @@ Currently any version except 1.20.1 not planned for now, The **LTS [Long Term Su
 ## Credits
 Thanks so much to [Shizotoaster](https://github.com/shizotoaster) for helping with optimization and **Elysium Days Tweaks** Mod and more!
 
-Special thanks to [Enderverse](https://www.youtube.com/@EnderVerseMC) for including my modpack in [his video](https://youtu.be/ar6Wi7GKLQI?t=191), it really helped!
+Special thanks to [Enderverse](https://www.youtube.com/@EnderVerseMC) for including my modpack in [his video](https://youtu.be/ar6Wi7GKLQI?t=191)!
+
+Also special thanks to [Cosmxnautic](https://www.youtube.com/@Cosmxnautic) for showcasing my modpack in [their video](https://youtu.be/fXCCJi5-Vus?t=16)!
 
 And all the mod developers that i used the mods of, you can see the list in [here](https://github.com/Fyoncle/Elysium-Days/blob/main/MOD-LIST.md).

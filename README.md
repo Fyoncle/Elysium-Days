@@ -11,12 +11,13 @@
 <a href="https://github.com/Fyoncle/Elysium-Days/issues"><img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/1180fffe-2e90-4d93-bd59-e82f24aa3f6a" alt="Issue Report" style="width:20%; height:auto;"></a>
 
 ## What does this modpack provide?
+
 - **New Biomes** 🌎 Will you be able to visit all 90+ new biomes?
 - **New Blocks** 🧊 Plenty of new blocks to make a cozy house with! (1000+ Block Variants)
-- **New Structures** 🏰 Always wanted to reimagine the vanilla structures?...
+- **New Structures** 🏰 Always wanted to reimagine the vanilla structures? Now it is.
 - **Backpacks** 🎒 Now you can adventure for hours without fearing your inventory capacity!
-- **New Quests** 🎯 You can take bounty quests from villages!
-- **Culinary Arts** 🍞 Now you can do baking and lot of other farm related things!
+- **New Quests** 🎯 You can take quests from bounty boards in villages!
+- **Culinary Arts** 🍞 Now you can do baking and lot of other farming related things!
 - **Photography** 📷 Now you can flex on your friends by taking photos of your shaders!
 - **New Animals** 🐻 I think it's time to start a zoo, isn't it?...
 - **New Sounds** 🔊 The sounds of the game gonna make you feel like you're in an adventure series!
@@ -24,6 +25,10 @@
 - **Warden Dimension** 🌌 Did you ever wonder how below the bedrock looks like?
 - **The End** 🔮 Now the end is a mystery, it's lost somewhere... _~~**[Tip; Maxed Cartographer Villager]**~~_
 #
+
+If you counter any glitches & crashes, or if you have any suggestions you can tell me by joining [Discord](https://discord.gg/WFpDr7zY8Z) or either opening a issue on [GitHub](https://github.com/Fyoncle/Elysium-Days/issues)
+
+Currently any version except 1.20.1 not planned, The **LTS [Long Term Support]** Version will be **1.20.1**
 
 If you counter any glitches & crashes, or if you have any suggestions you can tell me by joining [Discord](https://discord.gg/WFpDr7zY8Z) or either opening a issue on [GitHub](https://github.com/Fyoncle/Elysium-Days/issues)
 

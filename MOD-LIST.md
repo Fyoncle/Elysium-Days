@@ -542,9 +542,9 @@
 <details>
 <summary>Resource Packs (24)</summary>
 
-- [Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes) by Futureazoo
+### Main Resource Packs
 
-- [Embrace Pixels](https://modrinth.com/resourcepack/embrace-pixels) by Mwti _~~[Shader with LabPBR and specific settings only, check resource pack page for more information.]~~_
+- [Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes) by Futureazoo
 
 - [Enhanced Boss Bars](https://modrinth.com/resourcepack/enhanced-boss-bars) by Naku
 
@@ -574,10 +574,6 @@
 
 - [Luminous](https://www.curseforge.com/minecraft/texture-packs/luminous) by Techy69 and slightly modified for the modpack by Fyoncle
 
-- [RAY's 3D Ladders](https://modrinth.com/resourcepack/rays-3d-ladders) by xR4YM0ND
-
-- [RAY's 3D Rails](https://modrinth.com/resourcepack/rays-3d-rails) by xR4YM0ND
-
 - [Rain Revamp](https://modrinth.com/resourcepack/rain-revamp) by DarkStormPT
 
 - [Shiny Ores](https://modrinth.com/resourcepack/shiny-ores-countxd) by CountXD
@@ -586,9 +582,19 @@
 
 - [Translations for Sodium](https://modrinth.com/resourcepack/translations-for-sodium) by robotkoer
 
+#
+
+### Optional Packs
+
 - [AVPBR](https://www.curseforge.com/minecraft/texture-packs/avpbr) by JoaquiX
 
 - [AVPBR Retextured](https://modrinth.com/resourcepack/avpbr-retextured) by JoaquiX
+
+- [RAY's 3D Ladders](https://modrinth.com/resourcepack/rays-3d-ladders) by xR4YM0ND
+
+- [RAY's 3D Rails](https://modrinth.com/resourcepack/rays-3d-rails) by xR4YM0ND
+
+- [Embrace Pixels](https://modrinth.com/resourcepack/embrace-pixels) by Mwti
 
 </details>
 <details>
@@ -604,8 +610,14 @@
 
 </details>
 
+#
+
 <details>
-<summary>Incompatible Mods With This Modpack</summary>
+<summary>Incompatible Mods</summary>
+
+## Thats a list of mods that you CAN NOT use with Elysium Days
+
+- [More Mob Variants](https://modrinth.com/mod/more-mob-variants) Incompatible with Let's Do Meadow
 
 - [Smooth GUI](https://modrinth.com/mod/smooth-gui) Having Problems With Debugify
 
@@ -613,32 +625,41 @@
 
 - [Merchant Markers](https://modrinth.com/mod/merchant-markers) Resource loading failed error.
 
-- [Better Advancements](https://modrinth.com/mod/better-advancements) Possible to use, but crashing so much.
+- [Better Advancements](https://modrinth.com/mod/better-advancements) Causing crashes often.
 
-- [Better End](https://modrinth.com/mod/betterend) & [Better Nether](https://modrinth.com/mod/betternether) Mod is having INSANE rendering, crash on launches, lag at previous versions and more.
+- [Better End](https://modrinth.com/mod/betterend) & [Better Nether](https://modrinth.com/mod/betternether) These two mods causing insane rendering issues, crash on launches and shader glitches that can trigger epilepsy.
 
 - [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) Can't work together with More Culling.
 
-- [Fancy Menu](https://modrinth.com/mod/fancymenu) FancyMenu incompatible with many mods included on this modpack.
+- [Fancy Menu](https://modrinth.com/mod/fancymenu) Incompatible with many mods included on this modpack.
 
 - [Phosphor](https://modrinth.com/mod/phosphor) Incompatible with Starlight
 
 - [Hellion's Sniffer+](https://modrinth.com/mod/hellions-sniffer+) Completely breaks cave generation on 1.20.1
 
-- [Dyed](https://modrinth.com/mod/dyed) Duplicates Horse & Horse Armor and corrupts the animations with Fresh Animations installed.
+- [Fish Of Thieves](https://modrinth.com/mod/fish-of-thieves) Causing insane TPS drops.
 
-- [Fish Of Thieves](https://modrinth.com/mod/fish-of-thieves) Insane TPS drops, not incompatible, but worth counting as incompatible because of the unplayable lag.
+- [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone) Incompatible with Better Mount HUD
+
+- [SleepWarp](https://modrinth.com/mod/sleep-warp) Causing Crashes On Servers
 
 - [Let Sleeping Dogs Lie](https://modrinth.com/mod/let-sleeping-dogs-lie) Incompatible with Fresh Animations
 
-- [SleepWarp](https://modrinth.com/mod/sleep-warp) Causing Crashes
-
 - [cat_jam](https://modrinth.com/mod/cat_jam) Incompatible with Fresh Animations
-
-- [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone) Incompatible with Kaffee's Dual Ride
 
 - [FastAnim](https://modrinth.com/mod/fastanim) Incompatible with Fresh Animations
 
-- [More Mob Variants](https://modrinth.com/mod/more-mob-variants) Incompatible with Let's Do Meadow
+- [Dyed](https://modrinth.com/mod/dyed) Duplicates Horse Models and corrupts the animations when Fresh Animations installed.
+
+</details>
+
+<details>
+<summary>Compatible & Optional Mods</summary>
+
+## That's a list of mods that is completely optional and compatible to use with Elysium Days
+
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons) With being fully compatible, you can now enjoy Elysium Days beautiful view in unlimited chunks!
+
+- [Create Fabric](https://modrinth.com/mod/create-fabric) Version v0.5.2.f Will make it compatible which is not released yet.
 
 </details>

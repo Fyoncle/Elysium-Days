@@ -1,7 +1,7 @@
 # Complete Mod List Of Elysium Days
 
 <details>
-<summary>Mod List (272)</summary>
+<summary>Mod List (271)</summary>
   
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) by tr7zw
 
@@ -42,6 +42,8 @@
 - [Better Combat](https://modrinth.com/mod/better-combat) by ZsoltMolnarrr
 
 - [Better Conduit Placement](https://modrinth.com/mod/better-conduit-placement) by Serilum
+
+- [Better End Cities Vanilla](https://modrinth.com/mod/better-end-cities-base) by The-Architects727
 
 - [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) by Lortseam
 
@@ -116,8 +118,6 @@
 - [CreativeCore](https://modrinth.com/mod/creativecore) by Creativemd
 
 - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul) by Joo5h
-
-- [Crops Love Rain](https://modrinth.com/mod/crops-love-rain) by ThePoultryMan
 
 - [Crying Portals](https://modrinth.com/mod/crying-portals) by Serilum
 
@@ -204,8 +204,6 @@
 - [Guarding](https://modrinth.com/mod/guarding) by Team-Abode
 
 - [Handcrafted](https://www.modrinth.com/mod/handcrafted) by Terrarium Studios
-
-- [Healing Campfire](https://modrinth.com/mod/healing-campfire) by Serilum
 
 - [Hearth & Home](https://modrinth.com/mod/hearth-and-home) by Crispytwig
 
@@ -357,8 +355,6 @@
 
 - [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders) by Nyfaria
 
-- [On Soul Fire](https://modrinth.com/mod/on-soul-fire) by MoriyaShiine
-
 - [Panorama Screens](https://modrinth.com/mod/panorama-screens) by Juancarloscp52
 
 - [Passive Shield](https://modrinth.com/mod/passive-shield) by Serilum
@@ -375,17 +371,15 @@
 
 - [Prism](https://modrinth.com/mod/prism-lib) by Grend
 
+- [Pure Discs - Tricky Trials](https://modrinth.com/mod/purediscstrickytrials) by purejosh
+
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) by Fuzs
 
 - [Realistic Sleep](https://modrinth.com/mod/realisticsleep) by Steveplays
 
-- [Realms Button Remover](https://modrinth.com/mod/realms-button-remover) by BluCobalt
-
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
 
 - [Regions Unexplored](https://modrinth.com/mod/regions-unexplored) by UHQ-GAMES
-
-- [Remove Reloading Screen](https://modrinth.com/mod/rrls) by TelepathicGrunt
 
 - [Repurposed Structures - Fabric](https://modrinth.com/mod/repurposed-structures-fabric) by TelepathicGrunt
 
@@ -431,6 +425,8 @@
 
 - [Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) by Rynnavinx
 
+- [Soul Fire'd](https://modrinth.com/mod/soul-fire-d) by Crystal Nest Organization
+
 - [Sound Controller](https://modrinth.com/mod/sound-controller) by BVengo
 
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) by Henkelmax
@@ -455,8 +451,6 @@
 
 - [TieredZ](https://modrinth.com/mod/tieredz) by Globox1997
 
-- [Torch hit!](https://modrinth.com/mod/torch-hit) by CrystalSpider
-
 - [Trinkets](https://modrinth.com/mod/trinkets) by Emi
 
 - [True Ending: Ender Dragon Overhaul](https://modrinth.com/datapack/true-ending) by Limesplatus
@@ -470,8 +464,6 @@
 - [Villager Names](https://modrinth.com/mod/villager-names-serilum) by Serilum
 
 - [Villager Transportation](https://modrinth.com/datapack/villager-transportation) by Jaffthry
-
-- [VillagerTradeFix](https://modrinth.com/mod/villagertradefix) by Globox1997
 
 - [Villages&Pillages](https://modrinth.com/mod/villages-and-pillages) by Faboslav
 
@@ -535,6 +527,8 @@
 
 - [e4mc](https://modrinth.com/mod/e4mc) by Vgskye
 
+- [fast-ip-ping](https://modrinth.com/mod/fast-ip-ping) Fallen-Breath
+
 - [playerAnimator](https://modrinth.com/mod/playeranimator) by KosmX
 
 </details>
@@ -542,7 +536,7 @@
 <details>
 <summary>Resource Packs (24)</summary>
 
-### Main Resource Packs
+### Main Resource Packs (19)
 
 - [Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes) by Futureazoo
 
@@ -564,9 +558,7 @@
 
 - [GUI Revision](https://modrinth.com/resourcepack/gui-revision) by Vixel
 
-- [Icons](https://modrinth.com/resourcepack/icons) by WeNAN
-
-- [Icons Advertisement Removal](https://modrinth.com/resourcepack/icons-advertisement-removal) by vexcenot
+- [Icons](https://modrinth.com/resourcepack/icons) by WeNAN Organization
 
 - [Low On Fire](https://modrinth.com/resourcepack/low-on-fire) by Haikis
 
@@ -582,9 +574,11 @@
 
 - [Translations for Sodium](https://modrinth.com/resourcepack/translations-for-sodium) by robotkoer
 
+- [Embellished Stone (Advancements Plaques)](https://modrinth.com/resourcepack/embellished-stone-advancements-plaques) by Grend
+
 #
 
-### Optional Packs
+### Optional Packs (5)
 
 - [AVPBR](https://www.curseforge.com/minecraft/texture-packs/avpbr) by JoaquiX
 
@@ -598,7 +592,7 @@
 
 </details>
 <details>
-<summary>Shaders (4)</summary>
+<summary>Shaders (5)</summary>
 
 - [Bliss Shaders](https://modrinth.com/shader/bliss-shader) by X0nk
 
@@ -607,6 +601,8 @@
 - [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) by EminGT
 
 - [BSL Shaders](https://modrinth.com/shader/bsl-shaders) by CaptTatsu
+
+- [Photon Shader](https://modrinth.com/shader/photon-shader) by sixthsurge
 
 </details>
 

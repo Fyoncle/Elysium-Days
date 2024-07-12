@@ -1,7 +1,7 @@
 # Complete Mod List Of Elysium Days
 
 <details>
-<summary>Mod List (271)</summary>
+<summary>Mod List (269)</summary>
   
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) by tr7zw
 
@@ -27,8 +27,6 @@
 
 - [Attribute Fix](https://modrinth.com/mod/attributefix) by Darkhax
 
-- [AutoTag](https://modrinth.com/mod/autotag) by Apace
-
 - [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons) by Fourmisain
 
 - [Backported Wolves](https://modrinth.com/mod/backported-wolves) by EmilSG
@@ -49,6 +47,8 @@
 
 - [Better Ping Display [Fabric]](https://modrinth.com/mod/better-ping-display-fabric) by Vladmarica
 
+- [Better Safe Bed](https://modrinth.com/mod/better-safe-bed) by frankV
+
 - [Better Statistics Screen](https://modrinth.com/mod/better-stats) by TheCSDev
 
 - [Better Tridents](https://modrinth.com/mod/better-tridents) by Fuzs
@@ -67,7 +67,7 @@
 
 - [Bushier Flowers](https://modrinth.com/mod/bushier-flowers) by Pandarix
 
-- CIT Resewn (URL didn't work so no link for that) by Shsupercm
+- [CIT Resewn](https://modrinth.com/mod/cit-resewn) by Shsupercm
 
 - [Cake Chomps](https://modrinth.com/mod/cake-chomps) by TheIllusiveC4
 
@@ -104,8 +104,6 @@
 - [Comforts](https://modrinth.com/mod/comforts) by TheIllusiveC4
 
 - [Companion](https://modrinth.com/mod/companion) by Snownee
-
-- [CompleteConfig](https://modrinth.com/mod/completeconfig) by Lortseam
 
 - [Continuity](https://modrinth.com/mod/continuity) by PepperCode1
 
@@ -156,8 +154,6 @@
 - [Enchanted Vertical Slabs](https://modrinth.com/mod/enchanted-vertical-slabs) by Enchanted-Games
 
 - [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) by Darkhax
-
-- [Enchantment Reveal](https://modrinth.com/mod/enchantment-reveal) by CrownSheep
 
 - [End Remastered](https://modrinth.com/mod/endrem) by Jack-Bagel
 
@@ -221,6 +217,8 @@
 
 - [Horse Expert](https://modrinth.com/mod/horse-expert) by Fuzs
 
+- [HorseInBoat](https://modrinth.com/mod/horseinboat) by Legosteenjaap
+
 - [Iceberg](https://modrinth.com/mod/iceberg) by Grend
 
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) by RaphiMC
@@ -270,8 +268,6 @@
 - [Leaf Me Alone](https://modrinth.com/mod/leaf-me-alone) by Nord_Act
 
 - [Leaves Be Gone](https://modrinth.com/mod/leaves-be-gone) by Fuzs
-
-- [LibZ](https://modrinth.com/mod/libz) by Globox1997
 
 - [Lithium](https://modrinth.com/mod/lithium) by Jellysquid3
 
@@ -375,7 +371,7 @@
 
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) by Fuzs
 
-- [Realistic Sleep](https://modrinth.com/mod/realisticsleep) by Steveplays
+- [Steve's Realistic Sleep](https://modrinth.com/mod/realisticsleep) by Steveplays
 
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
 
@@ -437,8 +433,6 @@
 
 - [Starlight (Fabric)](https://modrinth.com/mod/starlight) by Spottedleaf
 
-- [Statement](https://modrinth.com/mod/statement) by Virtuoel
-
 - [Supplementaries](https://modrinth.com/mod/supplementaries) by MehVahdJukaar
 
 - [Surface Mushrooms](https://modrinth.com/mod/surface-mushrooms) by Serilum
@@ -476,6 +470,8 @@
 - [What The Bucket](https://modrinth.com/mod/what-the-bucket) by Darkhax
 
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) by TheXaero
+
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) by TheXaero
 
 - [YDM's Weapon Master](https://modrinth.com/mod/weaponmaster) by YourDailyModder
 
@@ -533,6 +529,14 @@
 
 </details>
 
+
+<details>
+<summary>Datapacks (1)</summary>
+
+- [Nether Build Height Editor](https://github.com/Apollounknowndev/pack-library/blob/main/nether-build-height/384-height-1-18-2-and-above.zip) by Apollo **(Modified)**
+
+</details>
+
 <details>
 <summary>Resource Packs (24)</summary>
 
@@ -554,7 +558,7 @@
 
 - [Fresh Wolves Variants](https://modrinth.com/resourcepack/fresh-wolves-variants) by Eugene
 
-- [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player) by TrasTick and Ithan!
+- [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player) by TrasTick and IthanMendoza
 
 - [GUI Revision](https://modrinth.com/resourcepack/gui-revision) by Vixel
 
@@ -562,9 +566,9 @@
 
 - [Low On Fire](https://modrinth.com/resourcepack/low-on-fire) by Haikis
 
-- [Bray's World](https://modrinth.com/resourcepack/braysworld) by Braytonks (Modified)
+- [Bray's World](https://modrinth.com/resourcepack/braysworld) by Braytonks **(Modified)**
 
-- [Luminous](https://www.curseforge.com/minecraft/texture-packs/luminous) by Techy69 and slightly modified for the modpack by Fyoncle
+- [Luminous](https://www.curseforge.com/minecraft/texture-packs/luminous) by Techy69 **(Modified)**
 
 - [Rain Revamp](https://modrinth.com/resourcepack/rain-revamp) by DarkStormPT
 
@@ -580,7 +584,7 @@
 
 ### Optional Packs (5)
 
-- [AVPBR](https://www.curseforge.com/minecraft/texture-packs/avpbr) by JoaquiX
+- [AVPBR](https://www.curseforge.com/minecraft/texture-packs/avpbr) by JoaquiX **(Modified)**
 
 - [AVPBR Retextured](https://modrinth.com/resourcepack/avpbr-retextured) by JoaquiX
 

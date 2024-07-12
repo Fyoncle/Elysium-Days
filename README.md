@@ -14,7 +14,7 @@
 
 - **New Biomes** 🌎 Will you be able to visit all 90+ new biomes?
 - **New Blocks** 🧊 Plenty of new blocks to make a cozy house with! (1000+ Block Variants)
-- **New Structures** 🏰 Always wanted to reimagine the vanilla structures? Now it is.
+- **New Structures** 🏰 Always wanted vanilla structures reimagined? Now it is.
 - **Backpacks** 🎒 Now you can adventure for hours without fearing your inventory capacity!
 - **New Quests** 🎯 You can take quests from bounty boards in villages!
 - **Culinary Arts** 🍞 Now you can do baking and lot of other farming related things!
@@ -23,16 +23,12 @@
 - **New Sounds** 🔊 The sounds of the game gonna make you feel like you're in an adventure series!
 - **New Archeology** ☠️ You can now feel like a true archaeologist with this new tools and items!
 - **Warden Dimension** 🌌 Did you ever wonder how below the bedrock looks like?
-- **The End** 🔮 Now the end is a mystery, it's lost somewhere... _~~**[Tip; Maxed Cartographer Villager]**~~_
+- **The End** 🔮 Now the end is a mystery, it's lost somewhere... _~~**[Tip; Cartographer Villager]**~~_
 #
 
 If you counter any glitches & crashes, or if you have any suggestions you can tell me by joining [Discord](https://discord.gg/WFpDr7zY8Z) or either opening a issue on [GitHub](https://github.com/Fyoncle/Elysium-Days/issues)
 
 Currently any version except 1.20.1 not planned, The **LTS [Long Term Support]** Version will be **1.20.1**
-
-If you counter any glitches & crashes, or if you have any suggestions you can tell me by joining [Discord](https://discord.gg/WFpDr7zY8Z) or either opening a issue on [GitHub](https://github.com/Fyoncle/Elysium-Days/issues)
-
-Currently any version except 1.20.1 not planned for now, The **LTS [Long Term Support]** Version will be **1.20.1**
 ## Credits
 Thanks so much to [Shizotoaster](https://github.com/shizotoaster) for helping with optimization and **Elysium Days Tweaks** Mod and more!
 

@@ -1,7 +1,7 @@
 # Complete Mod List Of Elysium Days
 
 <details>
-<summary>Mod List (269)</summary>
+<summary>Mod List (270)</summary>
   
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) by tr7zw
 
@@ -127,8 +127,6 @@
 
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker) by Nitrodynamite18
 
-- [Diagonal Fences](https://modrinth.com/mod/diagonal-fences) by Fuzs
-
 - [Dismount Entity](https://modrinth.com/mod/dismount-entity) by Serilum
 
 - [Distracting Trims](https://modrinth.com/mod/distracting-trims) by Darkhax
@@ -182,6 +180,8 @@
 - [Fishing Real](https://modrinth.com/mod/fishing-real) by PricelessKoala
 
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) by Fuzs
+
+- [Forgiving Void](https://modrinth.com/mod/forgiving-void) by BlayTheNinth
 
 - [Formations (Structure Library)](https://modrinth.com/mod/formations) by SuperMartijn642
 
@@ -350,6 +350,8 @@
 - [Nullscape](https://modrinth.com/mod/nullscape) by StardustLabs
 
 - [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders) by Nyfaria
+
+- [OptiGUI](https://modrinth.com/mod/optigui) by opekope2
 
 - [Panorama Screens](https://modrinth.com/mod/panorama-screens) by Juancarloscp52
 
@@ -546,7 +548,7 @@
 
 - [Enhanced Boss Bars](https://modrinth.com/resourcepack/enhanced-boss-bars) by Naku
 
-- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants) by Mythitorium
+- [Refined Enchants](https://modrinth.com/resourcepack/refined-enchants) by Vixel
 
 - [Freshly Modded](https://modrinth.com/resourcepack/freshly-modded) by SebSemos
 
@@ -564,7 +566,7 @@
 
 - [Icons](https://modrinth.com/resourcepack/icons) by WeNAN Organization
 
-- [Low On Fire](https://modrinth.com/resourcepack/low-on-fire) by Haikis
+- [Slim Fire](https://modrinth.com/resourcepack/slim-fire) by Crystal Nest Organization
 
 - [Bray's World](https://modrinth.com/resourcepack/braysworld) by Braytonks **(Modified)**
 

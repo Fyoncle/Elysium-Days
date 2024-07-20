@@ -10,7 +10,7 @@
 <a href="https://github.com/Fyoncle/Elysium-Days/blob/main/MOD-LIST.md"><img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/135609a7-1c13-419a-91eb-6f5df05e59f6" alt="Wikit" style="width:20%; height:auto;"></a>
 <a href="https://github.com/Fyoncle/Elysium-Days/issues"><img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/1180fffe-2e90-4d93-bd59-e82f24aa3f6a" alt="Issue Report" style="width:20%; height:auto;"></a>
 
-## What does this modpack provide?
+# What does this modpack provide?
 
 - **New Biomes** 🌎 Will you be able to visit all 90+ new biomes?
 - **New Blocks** 🧊 Plenty of new blocks to make a cozy house with! (1000+ Block Variants)

@@ -1,7 +1,7 @@
 # Complete Mod List Of Elysium Days
 
 <details>
-<summary>Mod List (270)</summary>
+<summary>Mod List (271)</summary>
   
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) by tr7zw
 
@@ -188,8 +188,6 @@
 - [Formations Nether](https://modrinth.com/mod/formations-nether) by SuperMartijn642
 
 - [Friendly Fire](https://modrinth.com/mod/friendly-fire) by Darkhax
-
-- [Furnace Recycle](https://modrinth.com/mod/furnace-recycle) by Serilum
 
 - [Game Menu Remove GFARB](https://modrinth.com/mod/gamemenuremovegfarb) by morimori0317
 
@@ -415,7 +413,7 @@
 
 - [Snow Pig [Fabric]](https://modrinth.com/mod/snowpig-fabric/versions) by Uraneptus
 
-- [Snow Under Trees (Fabric)](https://modrinth.com/mod/snow-under-trees-remastered) by Mineblock11
+- [Snow Under Trees (Fabric)](https://modrinth.com/mod/snow-under-trees-remastered) by mineblock11
 
 - [Sodium](https://modrinth.com/mod/sodium) by Jellysquid3
 
@@ -424,8 +422,6 @@
 - [Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) by Rynnavinx
 
 - [Soul Fire'd](https://modrinth.com/mod/soul-fire-d) by Crystal Nest Organization
-
-- [Sound Controller](https://modrinth.com/mod/sound-controller) by BVengo
 
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) by Henkelmax
 
@@ -439,11 +435,17 @@
 
 - [Surface Mushrooms](https://modrinth.com/mod/surface-mushrooms) by Serilum
 
+- [TCDCommons API](https://modrinth.com/mod/tcdcommons) by TheCSDev
+
 - [TerraBlender](https://modrinth.com/mod/terrablender) by Adubbz
 
 - [The Graveyard (FABRIC)](https://modrinth.com/mod/the-graveyard-fabric) by Finallion
 
 - [The Lost Castle](https://modrinth.com/mod/the-lost-castle) by Jack-Bagel
+
+- [Tips](https://modrinth.com/mod/tips) by Darkhax
+
+- [Torch hit!](https://modrinth.com/mod/torch-hit) by Crystal Nest Organization
 
 - [TieredZ](https://modrinth.com/mod/tieredz) by Globox1997
 
@@ -627,8 +629,6 @@
 
 - [Merchant Markers](https://modrinth.com/mod/merchant-markers) Resource loading failed error.
 
-- [Better Advancements](https://modrinth.com/mod/better-advancements) Causing crashes often.
-
 - [Better End](https://modrinth.com/mod/betterend) & [Better Nether](https://modrinth.com/mod/betternether) These two mods causing insane rendering issues, crash on launches and shader glitches that can trigger epilepsy.
 
 - [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) Can't work together with More Culling.
@@ -651,7 +651,7 @@
 
 - [FastAnim](https://modrinth.com/mod/fastanim) Incompatible with Fresh Animations
 
-- [Dyed](https://modrinth.com/mod/dyed) Duplicates Horse Models and corrupts the animations when Fresh Animations installed.
+- [Dyed](https://modrinth.com/mod/dyed) Incompatible with Fresh Animations
 
 </details>
 

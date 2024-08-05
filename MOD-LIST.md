@@ -1,4 +1,4 @@
-# Complete Mod List Of Elysium Days
+# Complete Content List Of Elysium Days
 
 <details>
 <summary>Mod List (271)</summary>

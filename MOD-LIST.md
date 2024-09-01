@@ -1,7 +1,7 @@
 # Complete Content List Of Elysium Days
 
 <details>
-<summary>Mod List (271)</summary>
+<summary>Mod List (272)</summary>
   
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) by tr7zw
 
@@ -165,6 +165,8 @@
 
 - [Exposure](https://modrinth.com/mod/exposure) by Mortuusars
 
+- [ExtraSounds Next](https://modrinth.com/mod/extrasoundsforge) by Arborsm
+
 - [Fabric API](https://modrinth.com/mod/fabric-api) by Modmuss50
 
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) by Modmuss50
@@ -207,9 +209,11 @@
 
 - [Hero Proof](https://modrinth.com/datapack/hero-proof) by Eugene
 
-- [Hopo Better Ruined Portals](https://modrinth.com/datapack/hopo-better-ruined-portals) by Ohponopono
+- [Highlight](https://modrinth.com/mod/highlight) by Team Resourceful
 
-- [Hopo Better Underwater Ruins](https://modrinth.com/datapack/better-underwater-ruins) by Ohponopono
+- [Hopo Better Ruined Portals](https://modrinth.com/datapack/hopo-better-ruined-portals) by Hoponopono
+
+- [Hopo Better Underwater Ruins](https://modrinth.com/datapack/better-underwater-ruins) by Hoponopono
 
 - [Horse Buff](https://modrinth.com/mod/horsebuff) by F53
 
@@ -251,8 +255,6 @@
 
 - [Just Enough Effect Descriptions (JEED)](https://modrinth.com/mod/just-enough-effect-descriptions-jeed) by MehVahdJukaar
 
-- [Just Enough Items](https://modrinth.com/mod/jei) by Mezz
-
 - [Kaffee's Dual Ride](https://modrinth.com/mod/kaffees_dual_ride) by 0ql
 
 - [Kambrik](https://modrinth.com/mod/kambrik) by Ejektaflex
@@ -266,6 +268,10 @@
 - [Leaf Me Alone](https://modrinth.com/mod/leaf-me-alone) by Nord_Act
 
 - [Leaves Be Gone](https://modrinth.com/mod/leaves-be-gone) by Fuzs
+
+- [Legacy: [Let's Do] Bakery](https://modrinth.com/mod/lets-do-bakery) by satisfyu
+
+- [Legacy: [Let's Do] Candlelight](https://modrinth.com/mod/lets-do-candlelight) by satisfyu
 
 - [Lithium](https://modrinth.com/mod/lithium) by Jellysquid3
 
@@ -381,11 +387,13 @@
 
 - [Resource Pack Overrides](https://modrinth.com/mod/resource-pack-overrides) by Fuzs
 
-- [Resorceful Config](https://modrinth.com/mod/resourceful-config) by Epic_Oreo
+- [Resorceful Config](https://modrinth.com/mod/resourceful-config) by Team Resourceful
 
-- [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) by Epic_Oreo
+- [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) by Team Resourceful
 
 - [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) by JamCoreModding
+
+- [Roughly Enough Items](https://modrinth.com/mod/rei) by shedaniel
 
 - [Scaffolding Drops Nearby](https://modrinth.com/mod/scaffolding-drops-nearby) by Serilum
 
@@ -424,8 +432,6 @@
 - [Soul Fire'd](https://modrinth.com/mod/soul-fire-d) by Crystal Nest Organization
 
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) by Henkelmax
-
-- [Sounds](https://modrinth.com/mod/sound) by mineblock11
 
 - [Spawn Animations](https://modrinth.com/mod/spawn-animations) by Tschipcraft
 
@@ -517,13 +523,9 @@
 
 - [[Let's Do] API](https://modrinth.com/mod/do-api) by Cristelknight
 
-- [[Let's Do] Bakery](https://modrinth.com/mod/lets-do-bakery) by Satisfyu
+- [[Let's Do] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews) by satisfyu
 
-- [[Let's Do] Candlelight](https://modrinth.com/mod/lets-do-candlelight) by Satisfyu
-
-- [[Let's Do] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews) by Satisfyu
-
-- [[Let's Do] Meadow](https://modrinth.com/mod/lets-do-meadow) by Satisfyu
+- [[Let's Do] Meadow](https://modrinth.com/mod/lets-do-meadow) by satisfyu
 
 - [e4mc](https://modrinth.com/mod/e4mc) by Vgskye
 
@@ -645,6 +647,8 @@
 
 - [SleepWarp](https://modrinth.com/mod/sleep-warp) Causing Crashes On Servers
 
+- [Sounds](https://modrinth.com/mod/sound) Fatal Lag Issues In Ocean Monuments
+
 - [Let Sleeping Dogs Lie](https://modrinth.com/mod/let-sleeping-dogs-lie) Incompatible with Fresh Animations
 
 - [cat_jam](https://modrinth.com/mod/cat_jam) Incompatible with Fresh Animations
@@ -660,8 +664,12 @@
 
 ## That's a list of mods that is completely optional and compatible to use with Elysium Days
 
-- [Distant Horizons](https://modrinth.com/mod/distanthorizons) With being fully compatible, you can now enjoy Elysium Days beautiful view in unlimited chunks!
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons) Fully Compatible!
 
-- [Create Fabric](https://modrinth.com/mod/create-fabric) Version v0.5.2.f Will make it compatible which is not released yet.
+- [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) Fully Compatible!
+
+- [Create Fabric](https://modrinth.com/mod/create-fabric) Fully Compatible after Elysium Days 5.3.0!
+
+- [Physics Mod](https://modrinth.com/mod/physicsmod) Compatible but has broken ragdolls becuse of Fresh Animations :(
 
 </details>

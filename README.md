@@ -2,7 +2,7 @@
 <a href="https://modrinth.com/modpack/elysium-days"><img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/7a400f7f-bf6c-42ab-85b0-cad7d3813225" alt="Main Title" style="width:50%; height:auto;"></a>
 
 ### A modpack that tries to make Minecraft fun again!
-
+***
 <a href="https://discord.gg/WFpDr7zY8Z" rel="noopener nofollow ugc"><img src="https://wsrv.nl/?url=https://i.ibb.co/gj8RFc6/discordbuttonnn.png" alt="Discord Button"></a>
 <a href="https://modrinth.com/modpack/elysium-days" rel="noopener nofollow ugc"><img src="https://wsrv.nl/?url=https://i.ibb.co/KGSHnKV/Install.png" alt="Install"></a>
 <a href="https://github.com/Fyoncle/Elysium-Days/blob/main/MOD-LIST.md" rel="noopener nofollow ugc"><img src="https://wsrv.nl/?url=https://i.ibb.co/g4DCJsC/Mod-List.png" alt="Mod List"></a>

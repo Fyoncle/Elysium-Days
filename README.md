@@ -9,7 +9,6 @@
 
 <a href="https://github.com/Fyoncle/Elysium-Days/wiki" rel="noopener nofollow ugc"><img src="https://wsrv.nl/?url=https://i.ibb.co/RjsCcMW/Wiki.png" alt="Wiki"></a>
 <a href="https://github.com/Fyoncle/Elysium-Days/issues" rel="noopener nofollow ugc"><img src="https://wsrv.nl/?url=https://i.ibb.co/TH3BYDN/Issues.png" alt="Issues"></a>
-<div align="center">
 
 # What does this modpack provide?
 </div>

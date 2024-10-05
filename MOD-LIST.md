@@ -9,8 +9,6 @@
 
 - [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) by Grend
 
-- [Advancement Info](https://modrinth.com/mod/advancementinfo) by Giselbaer
-
 - [Ambient Enviorment](https://modrinth.com/mod/ambient-environment) by Jaredlll08
 
 - [AmbientSounds](https://modrinth.com/mod/ambientsounds) by creativemd
@@ -37,6 +35,8 @@
 
 - [Better Archeology](https://modrinth.com/mod/better-archeology) by Pandarix
 
+- [Better Advancements](https://modrinth.com/mod/better-advancements) by way2muchnoise
+
 - [Better Combat](https://modrinth.com/mod/better-combat) by ZsoltMolnarrr
 
 - [Better Conduit Placement](https://modrinth.com/mod/better-conduit-placement) by Serilum
@@ -58,6 +58,8 @@
 - [Blur (Fabric)](https://modrinth.com/mod/blur-fabric) by Motschen
 
 - [Boat Item View](https://modrinth.com/mod/boat-item-view) by 50ap5ud5
+
+- [Boids](https://modrinth.com/mod/boids) by Tomate0613
 
 - [Bookshelf Lib](https://modrinth.com/mod/bookshelf-lib) by Darkhax
 
@@ -109,6 +111,8 @@
 
 - [Controlling](https://modrinth.com/mod/controlling) by Jaredlll08
 
+- [Couplings](https://modrinth.com/mod/couplings) by HeckinChloe
+
 - [Craftable Horse Armour & Saddle [CHA&S]](https://modrinth.com/mod/cha-s) by Ewy
 
 - [Crawl](https://modrinth.com/mod/crawl) by Fewizz
@@ -130,8 +134,6 @@
 - [Dismount Entity](https://modrinth.com/mod/dismount-entity) by Serilum
 
 - [Distracting Trims](https://modrinth.com/mod/distracting-trims) by Darkhax
-
-- [Double Doors](https://modrinth.com/mod/double-doors) by Serilum
 
 - [Drip Sounds [Fabric]](https://modrinth.com/mod/dripsounds-fabric) by PieKing1215
 
@@ -359,6 +361,8 @@
 
 - [Panorama Screens](https://modrinth.com/mod/panorama-screens) by Juancarloscp52
 
+- [Particle Core](https://modrinth.com/mod/particle-core) by fzzyhmstrs
+
 - [Passive Shield](https://modrinth.com/mod/passive-shield) by Serilum
 
 - [Path Under Fence Gates](https://modrinth.com/mod/pathunderfencegates) by Steveplays
@@ -376,8 +380,6 @@
 - [Pure Discs - Tricky Trials](https://modrinth.com/mod/purediscstrickytrials) by purejosh
 
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) by Fuzs
-
-- [Steve's Realistic Sleep](https://modrinth.com/mod/realisticsleep) by Steveplays
 
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
 
@@ -437,6 +439,10 @@
 
 - [Starlight (Fabric)](https://modrinth.com/mod/starlight) by Spottedleaf
 
+- [Steve's Realistic Sleep](https://modrinth.com/mod/realisticsleep) by Steveplays
+
+- [Structurify](https://modrinth.com/mod/structurify) by faboslav
+
 - [Supplementaries](https://modrinth.com/mod/supplementaries) by MehVahdJukaar
 
 - [Surface Mushrooms](https://modrinth.com/mod/surface-mushrooms) by Serilum
@@ -448,6 +454,8 @@
 - [The Graveyard (FABRIC)](https://modrinth.com/mod/the-graveyard-fabric) by Finallion
 
 - [The Lost Castle](https://modrinth.com/mod/the-lost-castle) by Jack-Bagel
+
+- [ThreadTweak](https://modrinth.com/mod/threadtweak) by getchoo
 
 - [Tips](https://modrinth.com/mod/tips) by Darkhax
 
@@ -576,8 +584,6 @@
 
 - [Luminous](https://www.curseforge.com/minecraft/texture-packs/luminous) by Techy69 **(Modified)**
 
-- [Rain Revamp](https://modrinth.com/resourcepack/rain-revamp) by DarkStormPT
-
 - [Shiny Ores](https://modrinth.com/resourcepack/shiny-ores-countxd) by CountXD
 
 - [Tissou's Zombie Pack](https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-19) by Tissou ~~_[I have permission from Tissou to add this resource pack.]_~~
@@ -585,6 +591,8 @@
 - [Translations for Sodium](https://modrinth.com/resourcepack/translations-for-sodium) by robotkoer
 
 - [Embellished Stone (Advancements Plaques)](https://modrinth.com/resourcepack/embellished-stone-advancements-plaques) by Grend
+
+- [Unobtrusive Weather](https://modrinth.com/resourcepack/unobtrusive-weather) by bom
 
 #
 
@@ -625,29 +633,27 @@
 
 - [More Mob Variants](https://modrinth.com/mod/more-mob-variants) Incompatible with Let's Do Meadow
 
-- [Smooth GUI](https://modrinth.com/mod/smooth-gui) Having Problems With Debugify
+- [Smooth GUI](https://modrinth.com/mod/smooth-gui) Incompatible with Debugify
 
-- [[Deprecated] Farmer's Delight [Fabric]](https://modrinth.com/mod/farmers-delight-fabric) Having incompatibility with many other mod updates.
+- [Merchant Markers](https://modrinth.com/mod/merchant-markers) Resource Loading Failed Error
 
-- [Merchant Markers](https://modrinth.com/mod/merchant-markers) Resource loading failed error.
+- [Better End](https://modrinth.com/mod/betterend) & [Better Nether](https://modrinth.com/mod/betternether) Mods are causing insane rendering issues, crash on launches and shader glitches that can trigger epilepsy.
 
-- [Better End](https://modrinth.com/mod/betterend) & [Better Nether](https://modrinth.com/mod/betternether) These two mods causing insane rendering issues, crash on launches and shader glitches that can trigger epilepsy.
+- [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) Incompatible with More Culling
 
-- [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) Can't work together with More Culling.
+- [[Deprecated] Farmer's Delight [Fabric]](https://modrinth.com/mod/farmers-delight-fabric) Incompatibility with few other mods.
 
-- [Fancy Menu](https://modrinth.com/mod/fancymenu) Incompatible with many mods included on this modpack.
+- [Fancy Menu](https://modrinth.com/mod/fancymenu) Incompatible with many mods.
 
 - [Phosphor](https://modrinth.com/mod/phosphor) Incompatible with Starlight
 
-- [Hellion's Sniffer+](https://modrinth.com/mod/hellions-sniffer+) Completely breaks cave generation on 1.20.1
-
-- [Fish Of Thieves](https://modrinth.com/mod/fish-of-thieves) Causing insane TPS drops.
+- [Fish Of Thieves](https://modrinth.com/mod/fish-of-thieves) Causing fatal TPS drops.
 
 - [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone) Incompatible with Better Mount HUD
 
 - [SleepWarp](https://modrinth.com/mod/sleep-warp) Causing Crashes On Servers
 
-- [Sounds](https://modrinth.com/mod/sound) Fatal Lag Issues In Ocean Monuments
+- [Sounds](https://modrinth.com/mod/sound) Causing fatal lag issues In Guardians & Ocean Monuments
 
 - [Let Sleeping Dogs Lie](https://modrinth.com/mod/let-sleeping-dogs-lie) Incompatible with Fresh Animations
 
@@ -662,14 +668,61 @@
 <details>
 <summary>Compatible & Optional Mods</summary>
 
-## That's a list of mods that is completely optional and compatible to use with Elysium Days
-
-- [Distant Horizons](https://modrinth.com/mod/distanthorizons) Fully Compatible!
-
-- [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) Fully Compatible!
-
-- [Create Fabric](https://modrinth.com/mod/create-fabric) Fully Compatible after Elysium Days 5.3.0!
-
-- [Physics Mod](https://modrinth.com/mod/physicsmod) Compatible but has broken ragdolls becuse of Fresh Animations :(
+<table>
+    <tr>
+      <td>
+        <img src="https://cdn.modrinth.com/data/uCdwusMi/0d4a6eaabadd21a7a36c6e7c131b406f70bc933c_96.webp" width="64">
+      </td>
+      <td>
+        <b><a href="https://modrinth.com/mod/distanthorizons">Distant Horizons</a></b><br>
+        Fully Compatible!
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.modrinth.com/data/9eGKb6K1/icon.png" width="64">
+      </td>
+      <td>
+        <b><a href="https://modrinth.com/mod/simple-voice-chat">Simple Voice Chat</a></b><br>
+        Fully Compatible!
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.modrinth.com/data/Xbc0uyRg/2dac58a3aeb55877f88021d0d4b1221df09a837c_96.webp" width="64">
+      </td>
+      <td>
+        <b><a href="https://modrinth.com/mod/create-fabric">Create</a></b><br>
+        Fully Compatible!
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.modrinth.com/data/k2ZPuTBm/7f7ac7cf2a46d5f02e9644372c44b3095ad61ffb_96.webp" width="64">
+      </td>
+      <td>
+        <b><a href="https://modrinth.com/mod/essential">Essential</a></b><br>
+        Partially Compatible (Broken Emotes due to Fresh Moves)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.modrinth.com/data/Xy8aRQKS/0aa52952e4256ce21a0335279f90552f2eb9fa05_96.webp" width="64">
+      </td>
+      <td>
+        <b><a href="https://modrinth.com/mod/physicsmod">Physics Mod</a></b><br>
+        Partially Compatible (Broken Ragdolls due to Fresh Animations)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.modrinth.com/data/KJe6y9Eu/7ce47fcb4242493ad069789298400b14f27737ad.png" width="64">
+      </td>
+      <td>
+        <b><a href="https://modrinth.com/mod/fabric-seasons">Fabric Seasons</a></b><br>
+        Fully Compatible!
+      </td>
+    </tr>
+  </table>
 
 </details>

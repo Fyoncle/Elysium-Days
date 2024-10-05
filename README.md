@@ -27,6 +27,10 @@
 - **The End** 🔮 The End is now lost far away and full of mystery... _~~**[Hint; Talk to a Cartographer Villager]**~~_
 #
 <div align="center">
+<a href="https://discord.gg/WFpDr7zY8Z" rel="noopener nofollow ugc">
+<img src="https://wsrv.nl/?url=https://i.ibb.co/V9DmRdC/discordicon.png" alt="Discord Icon"></a>
+<a href="https://github.com/Fyoncle/Elysium-Days/issues" rel="noopener nofollow ugc">
+<img src="https://wsrv.nl/?url=https://i.ibb.co/N9s5hz1/github.png" alt="GitHub"></a>
 
 If you counter any glitches & crashes, or if you have any suggestions you can tell me by joining [Discord](https://discord.gg/WFpDr7zY8Z) or either opening a issue on [GitHub](https://github.com/Fyoncle/Elysium-Days/issues)
 
@@ -35,11 +39,13 @@ Currently any version except 1.20.1 not planned, The **LTS [Long Term Support]**
 
 </details>
 <div align="center">
+  
+***
+  
+### **Special Thanks** <div align="center"><a href="https://modrinth.com/user/shizotoaster" rel="noopener nofollow ugc"><img src="https://wsrv.nl/?url=https://i.ibb.co/fdYNX3K/Heart.png" alt="Heart"></a>
 
-## Special Thanks 🌟
+**Special thanks to [Shizotoaster](https://github.com/shizotoaster) for helping with optimization and [Elysium Days Tweaks](https://modrinth.com/mod/elysium-days-tweaks) Mod and more!**
 
-Special thanks to [Shizotoaster](https://github.com/shizotoaster) for helping with optimization and **Elysium Days Tweaks** Mod and more!
-#
 **Additional Thanks 🎥**
 
 Huge thanks to [Enderverse](https://www.youtube.com/@EnderVerseMC) for featuring my modpack in [his video](https://youtu.be/ar6Wi7GKLQI?t=191)!

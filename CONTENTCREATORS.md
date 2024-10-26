@@ -4,7 +4,7 @@
 
 [Cosmonautic](https://www.youtube.com/@Cosmxnautic)
 
-[lowplea](https://www.youtube.com/@lowplea) (My favorite conntent creator of ED!)
+[lowplea](https://www.youtube.com/@lowplea) (My favorite content creator of ED!)
 
 [ChompyChoo](https://www.youtube.com/@chompychoo)
 

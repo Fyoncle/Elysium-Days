@@ -34,25 +34,41 @@
 
 If you counter any glitches & crashes, or if you have any suggestions you can tell me by joining [Discord](https://discord.gg/WFpDr7zY8Z) or either opening a issue on [GitHub](https://github.com/Fyoncle/Elysium-Days/issues)
 
-Currently any version except 1.20.1 not planned, The **LTS [Long Term Support]** Version will be **1.20.1**
+![Warning](https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/refs/heads/main/blockquotes/badge/dark-theme/warning.svg)  
+**Before reporting, please check the [Known Issues](https://github.com/Fyoncle/Elysium-Days/wiki/Known-Issues-&-Fixes) wiki page, as some issues already have fixes.**
+
 </div>
+<details>
+<summary>❔ F.A.Q</summary>
+
+- **Q: Where can I find Elysium Days on CurseForge?**  
+  - **A:** Elysium Days will **never** be hosted on CurseForge due to various dramas and other reasons.  
+#
+- **Q: Will Elysium Days be backported to versions below 1.20.1?**  
+  - **A:** No, Elysium Days is planned only for 1.20.1 and later versions.  
+#
+- **Q: Where can I find the server files for Elysium Days?**  
+  - **A:** There are no specific files for servers. However, you can learn how to get the ZIP version of the modpack from the [Elysium Days Wiki](https://github.com/Fyoncle/Elysium-Days/wiki/Known-Issues-&-Fixes).  
 
 </details>
 <div align="center">
   
 ***
   
-### **Special Thanks** <div align="center"><a href="https://modrinth.com/user/shizotoaster" rel="noopener nofollow ugc"><img src="https://wsrv.nl/?url=https://i.ibb.co/fdYNX3K/Heart.png" alt="Heart"></a>
+### Special Thanks  
+<div align="center"><a href="https://modrinth.com/user/shizotoaster" rel="noopener nofollow ugc"><img src="https://wsrv.nl/?url=https://i.ibb.co/fdYNX3K/Heart.png" alt="Heart"></a>
 
 **Special thanks to [Shizotoaster](https://github.com/shizotoaster) for helping with optimization and [Elysium Days Tweaks](https://modrinth.com/mod/elysium-days-tweaks) Mod and more!**
 
+**And many thanks to [VipCoder](https://github.com/VipCoder8) for developing the majority of the [Elysium Days Tweaks](https://modrinth.com/mod/elysium-days-tweaks) Mod.**
+***
 **Additional Thanks 🎥**
 
 Huge thanks to [Enderverse](https://www.youtube.com/@EnderVerseMC) for featuring my modpack in [his video](https://youtu.be/ar6Wi7GKLQI?t=191)!
 
 Also special thanks to [Cosmxnautic](https://www.youtube.com/@Cosmxnautic) for showcasing my modpack in [their video](https://youtu.be/fXCCJi5-Vus?t=16)!
 
-And many thanks to [ChompyChoo](https://www.youtube.com/@chompychoo) for [featuring](https://www.youtube.com/shorts/7d0nlsaEgFk) and [playing](https://www.youtube.com/watch?v=HzDYIm1pNGI) my modpack!
+And thanks to [all the other content creators](https://github.com/Fyoncle/Elysium-Days/blob/main/CONTENTCREATORS.md) that made a video about Elysium Days!
 
 And also all the mod developers that i used the mods of, you can see the list in [here](https://github.com/Fyoncle/Elysium-Days/blob/main/MOD-LIST.md).
 </div>

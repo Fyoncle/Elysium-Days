@@ -1,8 +1,8 @@
 # Complete Content List Of Elysium Days
 
 <details>
-<summary>Mod List (272)</summary>
-  
+<summary>Mod List (293)</summary>
+
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) by tr7zw
 
 - [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) by Autovw
@@ -21,11 +21,15 @@
 
 - [Architectury API](https://modrinth.com/mod/architectury-api) by MaxNeedsSnacks
 
+- [Armor Trim Item Fix](https://modrinth.com/mod/armor-trim-item-fix) by MincraftEinstein
+
 - [Athena](https://modrinth.com/mod/athena-ctm) Terrarium Studios
 
 - [Attribute Fix](https://modrinth.com/mod/attributefix) by Darkhax
 
 - [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons) by Fourmisain
+
+- [BE Style Wither](https://modrinth.com/mod/be-style-wither) by morimori0317
 
 - [Backported Wolves](https://modrinth.com/mod/backported-wolves) by EmilSG
 
@@ -45,11 +49,15 @@
 
 - [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) by Lortseam
 
+- [Better Night Vision](https://modrinth.com/mod/betternightvision) by Microcontrollers
+
 - [Better Ping Display [Fabric]](https://modrinth.com/mod/better-ping-display-fabric) by Vladmarica
 
 - [Better Safe Bed](https://modrinth.com/mod/better-safe-bed) by frankV
 
 - [Better Statistics Screen](https://modrinth.com/mod/better-stats) by TheCSDev
+
+- [Better Statistics Screen](https://modrinth.com/mod/better-than-mending) by TheCSDev
 
 - [Better Tridents](https://modrinth.com/mod/better-tridents) by Fuzs
 
@@ -70,6 +78,8 @@
 - [Bushier Flowers](https://modrinth.com/mod/bushier-flowers) by Pandarix
 
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn) by Shsupercm
+
+- [CTOV - Friends and Foes Compat](https://modrinth.com/mod/ctov-friends-and-foes-compat) by ChoiceTheorem
 
 - [Cake Chomps](https://modrinth.com/mod/cake-chomps) by TheIllusiveC4
 
@@ -95,7 +105,7 @@
 
 - [Clean Tooltips](https://modrinth.com/mod/clean-tooltips) by Mandala Creations
 
-- [ClickThrough](https://modrinth.com/mod/clickthrough) by Giselbaer
+- [ClickThrough Plus](https://modrinth.com/mod/clickthrough+) by Cassian
 
 - [Cloth Config API](https://modrinth.com/mod/cloth-config) by Shedaniel
 
@@ -107,13 +117,11 @@
 
 - [Companion](https://modrinth.com/mod/companion) by Snownee
 
+- [Connected Doors](https://modrinth.com/mod/connected-doors) by Domi
+
 - [Continuity](https://modrinth.com/mod/continuity) by PepperCode1
 
 - [Controlling](https://modrinth.com/mod/controlling) by Jaredlll08
-
-- [Couplings](https://modrinth.com/mod/couplings) by HeckinChloe
-
-- [Craftable Horse Armour & Saddle [CHA&S]](https://modrinth.com/mod/cha-s) by Ewy
 
 - [Crawl](https://modrinth.com/mod/crawl) by Fewizz
 
@@ -122,6 +130,8 @@
 - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul) by Joo5h
 
 - [Crying Portals](https://modrinth.com/mod/crying-portals) by Serilum
+
+- [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) by Kir_Antipov
 
 - [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) by Motschen
 
@@ -136,6 +146,8 @@
 - [Distracting Trims](https://modrinth.com/mod/distracting-trims) by Darkhax
 
 - [Drip Sounds [Fabric]](https://modrinth.com/mod/dripsounds-fabric) by PieKing1215
+
+- [Dyed](https://modrinth.com/mod/dyed) by yurisuika
 
 - [Easy Anvils](https://modrinth.com/mod/easy-anvils) by Fuzs
 
@@ -181,8 +193,6 @@
 
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) by Malte0811
 
-- [Fishing Real](https://modrinth.com/mod/fishing-real) by PricelessKoala
-
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) by Fuzs
 
 - [Forgiving Void](https://modrinth.com/mod/forgiving-void) by BlayTheNinth
@@ -193,9 +203,17 @@
 
 - [Friendly Fire](https://modrinth.com/mod/friendly-fire) by Darkhax
 
+- [Friends & Foes (Fabric/Quilt)](https://modrinth.com/mod/friends-and-foes) by faboslav
+
+- [Friends&Foes - Beekeeper Hut (Fabric/Quilt)](https://modrinth.com/mod/friends-and-foes-beekeeper-hut-fabric) by faboslav
+
+- [Friends&Foes - Flowery Mooblooms (Fabric/Quilt)](https://modrinth.com/mod/friends-and-foes-flowery-mooblooms-fabric) by faboslav
+
 - [Game Menu Remove GFARB](https://modrinth.com/mod/gamemenuremovegfarb) by morimori0317
 
 - [Geckolib](https://modrinth.com/mod/geckolib) by Gecko
+
+- [Glowing Torchflower](https://modrinth.com/mod/glowing-torchflower) by NikitaCartes
 
 - [Guard Villagers [Fabric]](https://modrinth.com/mod/guard-villagers) by Mrsterner
 
@@ -239,7 +257,7 @@
 
 - [InvMoveCompats](https://modrinth.com/mod/invmovecompats) by PieKing1215
 
-- [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) by Kyrptonaught
+- [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) by blackd
 
 - [Iris Shaders](https://modrinth.com/mod/iris) by Coderbot
 
@@ -329,6 +347,10 @@
 
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) by YaLTeR
 
+- [Music Delay Remover (Infinite Music)](https://modrinth.com/mod/infinite-music) by PlasticStrawActivist
+
+- [NarrusYeetus](https://modrinth.com/mod/narrus-yeetus) by TheEnderCore
+
 - [Naturalist](https://modrinth.com/mod/naturalist) by Crispytwig
 
 - [Neat](https://modrinth.com/mod/neat) by Vazkii
@@ -343,11 +365,7 @@
 
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) by Aizistral
 
-- [No Night Vision Flickering ](https://modrinth.com/mod/no-night-vision-flickering) by Semper-idem
-
 - [No Telemetry](https://modrinth.com/mod/no-telemetry) by Kb1000
-
-- [NoNarrator](https://modrinth.com/mod/nonarrator)
 
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) by Tr7zw
 
@@ -399,6 +417,8 @@
 
 - [Scaffolding Drops Nearby](https://modrinth.com/mod/scaffolding-drops-nearby) by Serilum
 
+- [Scribble](https://modrinth.com/mod/scribble) by chrrs
+
 - [Searchables](https://modrinth.com/mod/searchables) by Jaredlll08
 
 - [Secure Crops](https://modrinth.com/mod/secure-crops) by Zekk051
@@ -419,7 +439,11 @@
 
 - [Sit](https://modrinth.com/mod/bl4cks-sit) by Bl4ckscor3
 
+- [Skeleton Horse Spawn](https://modrinth.com/mod/skeleton-horse-spawn) by Serilum
+
 - [Smarter Farmers (farmers replant)](https://modrinth.com/mod/smarter-farmers-farmers-replant) by MehVahdJukaar
+
+- [SmoothMenu Refabricated](https://modrinth.com/mod/smoothmenu-refabricated) by shizotoaster
 
 - [Snow Pig [Fabric]](https://modrinth.com/mod/snowpig-fabric/versions) by Uraneptus
 
@@ -437,6 +461,10 @@
 
 - [Spawn Animations](https://modrinth.com/mod/spawn-animations) by Tschipcraft
 
+- [Spyglass Astronomy](https://modrinth.com/mod/spyglass-astronomy) by Nettakrim
+
+- [StackDeobfuscator](https://modrinth.com/mod/stackdeobf) by booky10
+
 - [Starlight (Fabric)](https://modrinth.com/mod/starlight) by Spottedleaf
 
 - [Steve's Realistic Sleep](https://modrinth.com/mod/realisticsleep) by Steveplays
@@ -450,6 +478,8 @@
 - [TCDCommons API](https://modrinth.com/mod/tcdcommons) by TheCSDev
 
 - [TerraBlender](https://modrinth.com/mod/terrablender) by Adubbz
+
+- [TerraBlenderFix](https://modrinth.com/mod/terrablenderfix) by racoonman2
 
 - [The Graveyard (FABRIC)](https://modrinth.com/mod/the-graveyard-fabric) by Finallion
 
@@ -475,8 +505,6 @@
 
 - [Villager Names](https://modrinth.com/mod/villager-names-serilum) by Serilum
 
-- [Villager Transportation](https://modrinth.com/datapack/villager-transportation) by Jaffthry
-
 - [Villages&Pillages](https://modrinth.com/mod/villages-and-pillages) by Faboslav
 
 - [Visuality](https://modrinth.com/mod/visuality) by PinkGoosik
@@ -486,6 +514,8 @@
 - [Weaker Spiderwebs](https://modrinth.com/mod/weaker-spiderwebs) by Serilum
 
 - [What The Bucket](https://modrinth.com/mod/what-the-bucket) by Darkhax
+
+- [World Play Time](https://modrinth.com/mod/world-play-time) by Khajiitos
 
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) by TheXaero
 
@@ -545,16 +575,22 @@
 
 
 <details>
-<summary>Datapacks (1)</summary>
+<summary>Datapacks (2)</summary>
 
 - [Nether Build Height Editor](https://github.com/Apollounknowndev/pack-library/blob/main/nether-build-height/384-height-1-18-2-and-above.zip) by Apollo **(Modified)**
+
+- EDVillageModifier by Fyoncle
 
 </details>
 
 <details>
-<summary>Resource Packs (24)</summary>
+<summary>Resource Packs (27)</summary>
 
-### Main Resource Packs (19)
+### Main Resource Packs (21)
+
+- [Ender Dragon Revamp](https://www.curseforge.com/minecraft/texture-packs/ender-dragon-revamp) [[Permission To Add](https://imgur.com/a/E6P3Kuu)] by crydigo (CurseForge Resource Pack) **(Modified)**
+
+- [Better Mob Models](https://modrinth.com/resourcepack/better-mob-models) by Joo5h **(Modified)**
 
 - [Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes) by Futureazoo
 
@@ -584,8 +620,6 @@
 
 - [Luminous](https://www.curseforge.com/minecraft/texture-packs/luminous) by Techy69 **(Modified)**
 
-- [Shiny Ores](https://modrinth.com/resourcepack/shiny-ores-countxd) by CountXD
-
 - [Tissou's Zombie Pack](https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-19) by Tissou ~~_[I have permission from Tissou to add this resource pack.]_~~
 
 - [Translations for Sodium](https://modrinth.com/resourcepack/translations-for-sodium) by robotkoer
@@ -594,9 +628,11 @@
 
 - [Unobtrusive Weather](https://modrinth.com/resourcepack/unobtrusive-weather) by bom
 
+- ResonariumFix by Fyoncle
+
 #
 
-### Optional Packs (5)
+### Optional Packs (6)
 
 - [AVPBR](https://www.curseforge.com/minecraft/texture-packs/avpbr) by JoaquiX **(Modified)**
 
@@ -607,6 +643,8 @@
 - [RAY's 3D Rails](https://modrinth.com/resourcepack/rays-3d-rails) by xR4YM0ND
 
 - [Embrace Pixels](https://modrinth.com/resourcepack/embrace-pixels) by Mwti
+
+- [New Glowing Ores](https://modrinth.com/resourcepack/new-glowing-ores) by 
 
 </details>
 <details>
@@ -627,46 +665,40 @@
 #
 
 <details>
-<summary>Incompatible Mods</summary>
+<summary>⛔ Incompatible Mods</summary>
 
-## Thats a list of mods that you CAN NOT use with Elysium Days
+- [More Mob Variants](https://modrinth.com/mod/more-mob-variants) → Incompatible with Let's Do Meadow
 
-- [More Mob Variants](https://modrinth.com/mod/more-mob-variants) Incompatible with Let's Do Meadow
+- [Smooth GUI](https://modrinth.com/mod/smooth-gui) → Incompatible with Debugify
 
-- [Smooth GUI](https://modrinth.com/mod/smooth-gui) Incompatible with Debugify
+- [Merchant Markers](https://modrinth.com/mod/merchant-markers) → Resource Loading Failed Error
 
-- [Merchant Markers](https://modrinth.com/mod/merchant-markers) Resource Loading Failed Error
+- [Better End](https://modrinth.com/mod/betterend) & [Better Nether](https://modrinth.com/mod/betternether) → Critical Rendering Issues & Crashes & Shader Issues With Epilepsy Risks.
 
-- [Better End](https://modrinth.com/mod/betterend) & [Better Nether](https://modrinth.com/mod/betternether) Mods are causing insane rendering issues, crash on launches and shader glitches that can trigger epilepsy.
+- [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) → Incompatible with More Culling
 
-- [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) Incompatible with More Culling
+- [[Deprecated] Farmer's Delight [Fabric]](https://modrinth.com/mod/farmers-delight-fabric) → Incompatibility with few other mods.
 
-- [[Deprecated] Farmer's Delight [Fabric]](https://modrinth.com/mod/farmers-delight-fabric) Incompatibility with few other mods.
+- [Phosphor](https://modrinth.com/mod/phosphor) → Incompatible with Starlight
 
-- [Fancy Menu](https://modrinth.com/mod/fancymenu) Incompatible with many mods.
+- [Fish Of Thieves](https://modrinth.com/mod/fish-of-thieves) → Causing fatal TPS drops.
 
-- [Phosphor](https://modrinth.com/mod/phosphor) Incompatible with Starlight
+- [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone) → Incompatible with Better Mount HUD
 
-- [Fish Of Thieves](https://modrinth.com/mod/fish-of-thieves) Causing fatal TPS drops.
+- [SleepWarp](https://modrinth.com/mod/sleep-warp) → Causing Crashes On Servers
 
-- [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone) Incompatible with Better Mount HUD
+- [Sounds](https://modrinth.com/mod/sound) → Causing unplayable FPS Drops with Guardians & Ocean Monuments
 
-- [SleepWarp](https://modrinth.com/mod/sleep-warp) Causing Crashes On Servers
+- [Let Sleeping Dogs Lie](https://modrinth.com/mod/let-sleeping-dogs-lie) → Incompatible with Fresh Animations
 
-- [Sounds](https://modrinth.com/mod/sound) Causing fatal lag issues In Guardians & Ocean Monuments
+- [cat_jam](https://modrinth.com/mod/cat_jam) → Incompatible with Fresh Animations
 
-- [Let Sleeping Dogs Lie](https://modrinth.com/mod/let-sleeping-dogs-lie) Incompatible with Fresh Animations
-
-- [cat_jam](https://modrinth.com/mod/cat_jam) Incompatible with Fresh Animations
-
-- [FastAnim](https://modrinth.com/mod/fastanim) Incompatible with Fresh Animations
-
-- [Dyed](https://modrinth.com/mod/dyed) Incompatible with Fresh Animations
+- [FastAnim](https://modrinth.com/mod/fastanim) → Incompatible with Fresh Animations
 
 </details>
 
 <details>
-<summary>Compatible & Optional Mods</summary>
+<summary>✔️ Compatible & Optional Mods</summary>
 
 <table>
     <tr>
@@ -689,12 +721,13 @@
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.modrinth.com/data/Xbc0uyRg/2dac58a3aeb55877f88021d0d4b1221df09a837c_96.webp" width="64">
+        <img src="https://cdn.modrinth.com/data/Xbc0uyRg/bb29eb217b1fd159579409b06ec7b976afd30b14_96.webp" width="64">
       </td>
       <td>
-        <b><a href="https://modrinth.com/mod/create-fabric">Create</a></b><br>
-        Fully Compatible!
-      </td>
+    <b><a href="https://modrinth.com/mod/create-fabric">Create Fabric</a></b><br>
+    Fully Compatible!<br>
+    Although it's suggested to use <a href="https://modrinth.com/mod/iris-flw-compat">Iris FLW Compat</a> with it.
+  </td>
     </tr>
     <tr>
       <td>
@@ -702,6 +735,8 @@
       </td>
       <td>
         <b><a href="https://modrinth.com/mod/essential">Essential</a></b><br>
+    <u>Essential is <b>NOT recommended</b> for use due to
+    <a href="https://notessential.blurry.gay/">these reasons</a></u>.<br>
         Partially Compatible (Broken Emotes due to Fresh Moves)
       </td>
     </tr>
@@ -720,6 +755,15 @@
       </td>
       <td>
         <b><a href="https://modrinth.com/mod/fabric-seasons">Fabric Seasons</a></b><br>
+        Fully Compatible!
+      </td>
+    </tr>
+      <tr>
+      <td>
+        <img src="https://cdn.modrinth.com/data/Nv2fQJo5/icon.png" width="64">
+      </td>
+      <td>
+        <b><a href="https://modrinth.com/mod/replaymod">Replay Mod</a></b><br>
         Fully Compatible!
       </td>
     </tr>

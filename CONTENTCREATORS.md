@@ -1,10 +1,10 @@
-## That's the list of every content creator i could find that made a video about Elysium Days.
+## That's the list of every content creator I could find that made a video about Elysium Days.
 
 [EnderVerse](https://www.youtube.com/@EnderVerseMC)
 
 [Cosmonautic](https://www.youtube.com/@Cosmxnautic)
 
-[lowplea](https://www.youtube.com/@lowplea) (My favorite content creator of ED!)
+[CinematicaMC](https://www.youtube.com/@CinematicaMC) (My favorite content creator of ED!)
 
 [ChompyChoo](https://www.youtube.com/@chompychoo)
 

@@ -6,6 +6,14 @@
 
 [CinematicaMC](https://www.youtube.com/@CinematicaMC) (My favorite content creator of ED!)
 
+[Rahbee](https://www.youtube.com/@LegendofRahbee)
+
+[Server.pro](https://www.youtube.com/@Serverprohosting)
+
+[sooshiiiarx](https://www.youtube.com/@sooshiiiarx)
+
+[HabilXP](https://www.youtube.com/@HabilXP)
+
 [ChompyChoo](https://www.youtube.com/@chompychoo)
 
 [Zapp3r](https://www.youtube.com/@eyzapp3ro.o)

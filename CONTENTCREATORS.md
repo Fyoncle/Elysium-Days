@@ -28,4 +28,8 @@
 
 [FuryJuega](https://www.youtube.com/@FuryJuega)
 
-[Anqutia](https://www.youtube.com/@Anqutia/videos)
+[Anqutia](https://www.youtube.com/@Anqutia)
+
+[HillCube](https://www.youtube.com/@thenintendoninjasarecoming)
+
+[Supreme_Khi](https://www.youtube.com/@Suprem3_Kh1)

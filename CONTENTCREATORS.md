@@ -23,3 +23,9 @@
 [Deeemonngejmz](https://www.youtube.com/@deeemongejmz)
 
 [Pengy_yay](https://www.youtube.com/@Pengy_yay)
+
+[Rispwind](https://www.youtube.com/@rispwind)
+
+[FuryJuega](https://www.youtube.com/@FuryJuega)
+
+[Anqutia](https://www.youtube.com/@Anqutia/videos)

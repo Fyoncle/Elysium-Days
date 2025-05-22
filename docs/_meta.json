@@ -1,9 +1,10 @@
 {
-  "getting_started.mdx": {
-    "name": "Getting Started",
-    "icon": "HeartHandshake"
+    "getting_started.mdx": {
+        "name": "Getting Started",
+        "icon": "HeartHandshake"
     },
-  "guides": {
-    "name": "Guides",
-    "icon": "BadgeHelp"
+    "guides": {
+        "name": "Guides",
+        "icon": "BadgeHelp"
+    }
 }

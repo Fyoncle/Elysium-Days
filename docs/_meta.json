@@ -3,7 +3,7 @@
     "name": "Getting Started",
     "icon": "Heart-Handshake"
     },
-  "known_issues": {
-    "name": "Known Issues & Fixes",
-    "icon": "Bug"
+  "guides": {
+    "name": "Guides",
+    "icon": "Badge-Help"
 }

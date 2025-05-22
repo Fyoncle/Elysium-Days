@@ -33,3 +33,5 @@
 [HillCube](https://www.youtube.com/@thenintendoninjasarecoming)
 
 [Supreme_Khi](https://www.youtube.com/@Suprem3_Kh1)
+
+[Jamie](https://www.youtube.com/@Jamie.08.09)

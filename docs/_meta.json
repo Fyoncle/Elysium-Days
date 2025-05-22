@@ -1,9 +1,9 @@
 {
   "getting_started.mdx": {
     "name": "Getting Started",
-    "icon": "Heart-Handshake"
+    "icon": "HeartHandshake"
     },
   "guides": {
     "name": "Guides",
-    "icon": "Badge-Help"
+    "icon": "BadgeHelp"
 }

@@ -2,5 +2,8 @@
   "getting_started.mdx": {
     "name": "Getting Started",
     "icon": "Heart-Handshake"
-  }
+    },
+  "known_issues": {
+    "name": "Known Issues & Fixes",
+    "icon": "Bug"
 }

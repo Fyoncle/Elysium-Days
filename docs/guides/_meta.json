@@ -1,5 +1,14 @@
 {
-  "known_issues.mdx": "Known Issues & Fixes",
-  "memory_allocation.mdx": "Memory Allocation",
-  "playing_multiplayer.mdx": "Multiplayer"
+    "known_issues.mdx": {
+        "name": "Known Issues & Solutions",
+        "icon": "BookMarked"
+    },
+    "memory_allocation.mdx": {
+        "name": "Memory Allocation",
+        "icon": "MemoryStick"
+    },
+    "playing_multiplayer.mdx": {
+        "name": "Multiplayer",
+        "icon": "Users"
+    }
 }

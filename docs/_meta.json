@@ -2,11 +2,10 @@
     "getting_started.mdx": {
         "name": "Getting Started with Elysium Days",
         "icon": "HeartHandshake"
-     },
-    "guides": {
+    },
+    "installation_guides": {
         "name": "How to Install",
         "icon": "Download"
-    }
     },
     "guides": {
         "name": "Guides",

@@ -3,4 +3,45 @@ title: Known Issues & Fixes
 hide_meta: true
 ---
 
-Hi!
+### 1. **Unintended Animated Eyes Glitch**  
+If your skin's eyes appear broken (even though you didn’t intentionally enable face animations), it’s likely due to unintended pixels on the head part of your skin. Here's an example:  
+
+![Unintended Animated Eyes Example](https://github.com/Fyoncle/Elysium-Days/assets/63975256/993ff119-6052-48a1-b060-9d5730c87f76)  
+
+These black lines are incorrect. Ensure that all sides of the face (head and second layer) are **8x8 pixels**.  
+
+---  
+
+### 2. **Game Crashes**  
+If your game crashes:  
+- Open an issue on GitHub, or  
+- Join the [Elysium Days Discord Server](https://discord.gg/WFpDr7zY8Z) and share your log by uploading it to [mclo.gs](https://mclo.gs).  
+
+---  
+
+### 3. **Weird Texts On Screen While Joining a Server**  
+![Weird Text Example](https://github.com/Fyoncle/Elysium-Days/assets/63975256/5057177c-9a56-43e5-a4d0-ab292a237842)  
+
+This happens when the server is using a different version of Elysium Days than your client. To fix this, ensure you’re using the same version as the server.  
+
+---  
+
+### 4. **Floating Blocks & Pink Beds in Servers**  
+This issue occurs if you try to join a vanilla server with a modded client without installing Fabric. Watch [this video](https://www.youtube.com/watch?v=sg91I4vg7ew) to properly set up a Fabric server.  
+
+---  
+
+### 5. **Broken Fonts**  
+![Broken Fonts Example](https://github.com/Fyoncle/Elysium-Days/assets/63975256/80f0d98e-1a72-471d-ab50-e4abee500b01)  
+
+Broken fonts are usually caused by insufficient allocated RAM. **Elysium Days requires at least 5GB of RAM** (6GB is recommended). If less than 5GB is allocated, the game won’t load assets properly.  
+Refer to [this guide](https://github.com/Fyoncle/Elysium-Days/wiki/How-to-allocate-more-RAM) to learn how to allocate more RAM.  
+
+---  
+
+### 6. **Nether Plains Biome Issue**  
+If you see **Plains biomes above Y 256 in the Nether**, it means your world was created before **ED 4.2.0**, which introduced breaking changes.  
+To fix this:  
+1. Update to the latest release of Elysium Days.  
+2. Follow [this video](https://youtu.be/Z0cHV8PHKFU?t=70) to delete your Nether files.  
+3. Re-enter the portal to regenerate the Nether.

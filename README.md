@@ -7,7 +7,7 @@
 <a href="https://modrinth.com/modpack/elysium-days" rel="noopener nofollow ugc"><img src="https://wsrv.nl/?url=https://i.ibb.co/KGSHnKV/Install.png" alt="Install"></a>
 <a href="https://github.com/Fyoncle/Elysium-Days/blob/main/MOD-LIST.md" rel="noopener nofollow ugc"><img src="https://wsrv.nl/?url=https://i.ibb.co/g4DCJsC/Mod-List.png" alt="Mod List"></a>
 
-<a href="https://github.com/Fyoncle/Elysium-Days/wiki" rel="noopener nofollow ugc"><img src="https://wsrv.nl/?url=https://i.ibb.co/RjsCcMW/Wiki.png" alt="Wiki"></a>
+<a href="https://moddedmc.wiki/en/project/elysium-days/docs/getting_started" rel="noopener nofollow ugc"><img src="https://wsrv.nl/?url=https://i.ibb.co/RjsCcMW/Wiki.png" alt="Wiki"></a>
 <a href="https://github.com/Fyoncle/Elysium-Days/issues" rel="noopener nofollow ugc"><img src="https://wsrv.nl/?url=https://i.ibb.co/TH3BYDN/Issues.png" alt="Issues"></a>
 
 # What does this modpack provide?

@@ -1,4 +1,10 @@
 {
-  "modpack_installation.mdx": "Personal Installation",
-  "server_installation.mdx": "Server Installation"
+    "modpack_installation.mdx": {
+        "name": "Known Issues & Solutions",
+        "icon": "HardDriveDownload"
+    },
+    "server_installation.mdx": {
+        "name": "Server Installation",
+        "icon": "Router"
+    }
 }

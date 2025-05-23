@@ -1,7 +1,7 @@
 {
     "known_issues.mdx": {
         "name": "Known Issues & Solutions",
-        "icon": "BookMarked"
+        "icon": "BadgeAlert"
     },
     "memory_allocation.mdx": {
         "name": "Memory Allocation",

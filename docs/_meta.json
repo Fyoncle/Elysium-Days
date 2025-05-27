@@ -3,6 +3,10 @@
         "name": "Getting Started with Elysium Days",
         "icon": "HeartHandshake"
     },
+        "faq.mdx": {
+        "name": "Frequently Asked Questions",
+        "icon": "FileQuestion"
+    },
     "installation_guides": {
         "name": "How to Install",
         "icon": "Download"

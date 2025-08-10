@@ -10,5 +10,9 @@
     "playing_multiplayer.mdx": {
         "name": "Multiplayer",
         "icon": "Users"
+    },
+    "recommended_tweaks.mdx": {
+        "name": "Recommended Tweaks",
+        "icon": "Sparkles"
     }
 }

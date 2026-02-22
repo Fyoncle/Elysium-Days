@@ -4,7 +4,7 @@
 
 [Cosmonautic](https://www.youtube.com/@Cosmxnautic)
 
-[CinematicaMC](https://www.youtube.com/@CinematicaMC) (My favorite content creator of ED!)
+[Cinimatica](https://www.youtube.com/@Cinimatica) (My favorite content creator of ED!)
 
 [Rahbee](https://www.youtube.com/@LegendofRahbee)
 

@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://modrinth.com/modpack/elysium-days"><img src="https://github.com/Fyoncle/Elysium-Days/assets/63975256/7a400f7f-bf6c-42ab-85b0-cad7d3813225" alt="Main Title" style="width:50%; height:auto;"></a>
+<a href="https://modrinth.com/modpack/elysium-days"><img src="https://cdn.modrinth.com/data/cached_images/dfed73d9f5701f7c1e3d2e648f8ae132691d54a4.png" alt="Main Title" style="width:50%; height:auto;"></a>
 
 ### A modpack that tries to make Minecraft fun again!
 ***

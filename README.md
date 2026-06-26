@@ -59,7 +59,7 @@ Found a bug or have a suggestion? Join our [Discord](https://discord.gg/WFpDr7zY
 </div>
 
 <details>
-<summary>📜 Mod List [416]</summary>
+<summary>📜 Mod List [417]</summary>
 
 - [2D Projectiles](https://modrinth.com/mod/W2K5WNdH) by Gaura
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw

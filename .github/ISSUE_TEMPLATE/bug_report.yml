@@ -17,14 +17,14 @@ body:
             bug.
           required: true
         - label: >-
-            I have checked the Known Issues & Fixes on the Wiki and my issue is not stated there.
+            I have checked the Common Issues on the Wiki and my issue is not stated there.
           required: true
   - type: input
     id: modpackversion
     attributes:
       label: Modpack Version
-      description: Which Elysium Days version you using?
-      placeholder: 3.5.0
+      description: Which version of Elysium Days are you using?
+      placeholder: 8.0.0
     validations:
       required: true
   - type: textarea
@@ -42,9 +42,9 @@ body:
       description: Steps to reproduce the issue you're experiencing.
       placeholder: |
         1. Install Latest Elysium Days
-        2. Join A World
-        3. Click the X block
-        4. See the crash
+        2. Join a World
+        3. Do the X thing
+        4. See bug
   - type: input
     id: logs
     attributes:

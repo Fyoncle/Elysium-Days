@@ -20,7 +20,7 @@ export default defineConfig({
             tag: "meta",
             attrs: {
               property: "og:image",
-              content: "https://fyoncle.github.io/Elysium-Days/banner.png"",
+              content: "https://fyoncle.github.io/Elysium-Days/banner.png",
             },
           },
           {

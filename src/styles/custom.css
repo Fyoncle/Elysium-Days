@@ -50,6 +50,10 @@ header [data-open-modal] {
     color 0.15s ease;
 }
 
+.site-title span {
+  color: white;
+}
+
 .sidebar-content a:hover {
   background-color: rgba(202, 158, 230, 0.15);
   color: var(--sl-color-white);

@@ -16,6 +16,20 @@ export default defineConfig({
       extractSafelist: true,
       starlight: {
         title: "Elysium Days Wiki",
+        head: [
+          {
+            tag: "meta",
+            attrs: {
+              property: "og:image",
+              content:
+                "https://elysium-days-wiki.netlify.app/_astro/banner.c6ABGJOy_XucAp.webp",
+            },
+          },
+          {
+            tag: "meta",
+            attrs: { name: "theme-color", content: "#f3e18a" },
+          },
+        ],
         customCss: ["./src/styles/custom.css"],
         plugins: [
           catppuccin({

@@ -2,7 +2,7 @@
 title: Playing Multiplayer
 ---
 
-import { Aside, Icon, Steps } from '@astrojs/starlight/components';
+import { Aside, Icon, Steps } from "@astrojs/starlight/components";
 
 <Aside>
 
@@ -20,18 +20,20 @@ With this method, you will have to choose a hosting and buy a server with a dece
 - [Modrinth Servers](https://modrinth.com/servers): If you have a friend group that is very active and using the server a lot, then Modrinth definitely provides better value per month.
 
 ✅ Pros
+
 - You will have an easy to use interface to control your server.
 - Your server will be 24/7 (unless stated otherwise in the hosting's website.)
 
 ❌ Cons
+
 - Can get too expensive for a small friend group in the long-run.
 - You will have to rely on the hosting, it is good practice to locally take backups of the server frequently.
 
-***
+---
 
 ### <Icon name="laptop" color="var(--sl-color-text-accent)" /> 2. Self Hosting a Server
 
-If you prefer to host a server on your own computer, check out [this tutorial](https://www.youtube.com/watch?v=sg91I4vg7ew) for step-by-step instructions. You will need to refer to the Server Installation on the wiki for the modpack files.
+If you prefer to host a server on your own computer, check out [this tutorial](https://www.youtube.com/watch?v=sg91I4vg7ew) for step-by-step instructions. You will need to refer to the [Server Installation](https://elysium-days-wiki.netlify.app/howtoinstall/serverinstallation/) on the wiki for the modpack files.
 
 <Aside type="caution">
 
@@ -39,30 +41,33 @@ If you're in the CGNAT pool, then you can’t port forward to use this method to
 
 Even if you can, port forwarding is not so safe as you will have to give your IP to someone while a port on your router is open.
 
-**Though you can use Method 3 to work around this.**
+**Though you can use [Method 3](https://elysium-days-wiki.netlify.app/guides/playingmultiplayer/#-3-using-self-hosting--zerotier) to work around this.**
 
 </Aside>
 
 ✅ Pros
+
 - You don't have to pay for a hosting.
 - You will store your files locally.
 
 ❌ Cons
+
 - You will have to port forward.
   - As mentioned above Method 3 can work around this.
 - Your server will be shut down if your PC is closed.
 - If you can't leave your PC always open, then this solution won't provide a 24/7 server.
   - You can buy a Virtual Private Server (VPS) to work around this though.
 
-***
+---
 
 ### <Icon name="window" color="var(--sl-color-text-accent)" /> 3. Using Self Hosting + ZeroTier
 
-First create a Fabric server with [this tutorial](https://www.youtube.com/watch?v=sg91I4vg7ew) and refer to the Server Installation section for installing Elysium Days on it. Then you will have to install ZeroTier and create a network. Then copy the network ID and give it to your friend, they will right click the system tray icon of ZeroTier and join your network.
+First create a Fabric server with [this tutorial](https://www.youtube.com/watch?v=sg91I4vg7ew) and refer to the [Server Installation](https://elysium-days-wiki.netlify.app/howtoinstall/serverinstallation/) section for installing Elysium Days on it. Then you will have to install ZeroTier and create a network. Then copy the network ID and give it to your friend, they will right click the system tray icon of ZeroTier and join your network.
 
 After your friend joins your network, you will copy your ZT-IP and put it in server.properties, and send it to your friend with adding `:25565` on the end of the IP (This depends on what port you set in the server.properties, by default it is 25565) The final result should look something like `??.???.???.???:25565`
 
 ✅ Pros
+
 - You don't have to pay for a hosting.
 - You will store your files locally.
 - Works even if you're in the CGNAT Pool.
@@ -71,27 +76,31 @@ After your friend joins your network, you will copy your ZT-IP and put it in ser
 - Unlike e4mc and Cloudflared the IP is always the same.
 
 ❌ Cons
+
 - Needs you to install the ZeroTier app, which is extra effort to set it up and not plug-and-play.
 - Closing your PC also closes the server, this solution won't provide a 24/7 server.
   - You can buy a Virtual Private Server (VPS) to work around this though.
 
-***
+---
 
 ### <Icon name="cloudflare" color="var(--sl-color-text-accent)" /> 4. Using the Cloudflared Mod (Built-in Elysium Days)
 
 This method allows you to host a server without port forwarding. Simply:
+
 1. Open the `ESC` menu in Minecraft.
 2. Click `Open to LAN` to start the server.
 3. A Cloudflare Tunnel IP will be displayed in the chat, share this address with your friends by clicking on it to copy and sending it to them. The IP looks something like:
-`cloudflared://very-very-long-example-with-random-words.com`
+   `cloudflared://very-very-long-example-with-random-words.com`
 
 ✅ Pros
+
 - Safer than the Essential Mod.
 - Has very minimal lag.
 - No need for server specific configuration making it easier to use.
 - No port forwarding required.
 
 ❌ Cons
+
 - The IP changes every time the host leaves.
 - Server shuts down when the host leaves the world, meaning it's not 24/7.
 - Requires everyone to have an original Minecraft account.

@@ -1,8 +1,20 @@
 ---
+import MobileMenuFooter from '@astrojs/starlight/components/MobileMenuFooter.astro';
 import Search from '@astrojs/starlight/components/Search.astro';
-import Default from 'starlight-plugin-icons/components/starlight/Sidebar.astro';
+import SidebarPersister from '@astrojs/starlight/components/SidebarPersister.astro';
+import SidebarSublist from 'starlight-plugin-icons/components/starlight/SidebarSublist.astro';
+
+const { hasSidebar, sidebar } = Astro.locals.starlightRoute;
 ---
+
 <div class="sidebar-search-wrap">
   <Search />
 </div>
-<Default><slot /></Default>
+
+<SidebarPersister>
+  <SidebarSublist sublist={sidebar} />
+</SidebarPersister>
+
+<div class="md:sl-hidden">
+  <MobileMenuFooter />
+</div>

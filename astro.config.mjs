@@ -25,7 +25,7 @@ export default defineConfig({
           },
           {
             tag: "meta",
-            attrs: { name: "theme-color", content: "#fde405" },
+            attrs: { name: "theme-color", content: "#f89720" },
           },
         ],
         customCss: ["./src/styles/custom.css"],
@@ -60,12 +60,12 @@ export default defineConfig({
               {
                 icon: "i-basil:explore-solid",
                 label: "Home",
-                slug: "Elysium-Days/gettingstarted/home",
+                slug: "gettingstarted/home",
               },
               {
                 icon: "i-basil:pin-solid",
                 label: "Frequently Asked Questions",
-                slug: "Elysium-Days/gettingstarted/faq",
+                slug: "gettingstarted/faq",
               },
             ],
           },
@@ -75,12 +75,12 @@ export default defineConfig({
               {
                 icon: "i-basil:download-solid",
                 label: "Modpack Installation",
-                slug: "Elysium-Days/howtoinstall/modpackinstallation",
+                slug: "howtoinstall/modpackinstallation",
               },
               {
                 icon: "i-basil:server-solid",
                 label: "Server Installation",
-                slug: "Elysium-Days/howtoinstall/serverinstallation",
+                slug: "howtoinstall/serverinstallation",
               },
             ],
           },
@@ -90,27 +90,27 @@ export default defineConfig({
               {
                 icon: "i-basil:info-rect-solid",
                 label: "Common Issues",
-                slug: "Elysium-Days/guides/commonissues",
+                slug: "guides/commonissues",
               },
               {
                 icon: "i-basil:save-solid",
                 label: "Memory Allocation",
-                slug: "Elysium-Days/guides/memoryallocation",
+                slug: "guides/memoryallocation",
               },
               {
                 icon: "i-basil:user-plus-solid",
                 label: "Playing Multiplayer",
-                slug: "Elysium-Days/guides/playingmultiplayer",
+                slug: "guides/playingmultiplayer",
               },
               {
                 icon: "i-basil:add-solid",
                 label: "Recommended Tweaks",
-                slug: "Elysium-Days/guides/recommendedtweaks",
+                slug: "guides/recommendedtweaks",
               },
               {
                 icon: "i-basil:heart-solid",
                 label: "Trinkets",
-                slug: "Elysium-Days/guides/trinkets",
+                slug: "guides/trinkets",
               },
             ],
           },

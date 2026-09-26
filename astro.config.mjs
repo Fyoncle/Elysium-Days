@@ -60,12 +60,12 @@ export default defineConfig({
               {
                 icon: "i-basil:explore-solid",
                 label: "Home",
-                slug: "gettingstarted/home",
+                slug: "Elysium-Days/gettingstarted/home",
               },
               {
                 icon: "i-basil:pin-solid",
                 label: "Frequently Asked Questions",
-                slug: "gettingstarted/faq",
+                slug: "Elysium-Days/gettingstarted/faq",
               },
             ],
           },
@@ -75,12 +75,12 @@ export default defineConfig({
               {
                 icon: "i-basil:download-solid",
                 label: "Modpack Installation",
-                slug: "howtoinstall/modpackinstallation",
+                slug: "Elysium-Days/howtoinstall/modpackinstallation",
               },
               {
                 icon: "i-basil:server-solid",
                 label: "Server Installation",
-                slug: "howtoinstall/serverinstallation",
+                slug: "Elysium-Days/howtoinstall/serverinstallation",
               },
             ],
           },
@@ -90,27 +90,27 @@ export default defineConfig({
               {
                 icon: "i-basil:info-rect-solid",
                 label: "Common Issues",
-                slug: "guides/commonissues",
+                slug: "Elysium-Days/guides/commonissues",
               },
               {
                 icon: "i-basil:save-solid",
                 label: "Memory Allocation",
-                slug: "guides/memoryallocation",
+                slug: "Elysium-Days/guides/memoryallocation",
               },
               {
                 icon: "i-basil:user-plus-solid",
                 label: "Playing Multiplayer",
-                slug: "guides/playingmultiplayer",
+                slug: "Elysium-Days/guides/playingmultiplayer",
               },
               {
                 icon: "i-basil:add-solid",
                 label: "Recommended Tweaks",
-                slug: "guides/recommendedtweaks",
+                slug: "Elysium-Days/guides/recommendedtweaks",
               },
               {
                 icon: "i-basil:heart-solid",
                 label: "Trinkets",
-                slug: "guides/trinkets",
+                slug: "Elysium-Days/guides/trinkets",
               },
             ],
           },

@@ -1,26 +1,110 @@
 // @ts-check
-import { defineConfig } from 'astro/config';
-import starlight from '@astrojs/starlight';
-
+import catppuccin from "@catppuccin/starlight";
+import { defineConfig } from "astro/config";
+import Icons from "starlight-plugin-icons";
+import UnoCSS from "unocss/astro";
 // https://astro.build/config
+
 export default defineConfig({
-	integrations: [
-		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
-			sidebar: [
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
-				},
-			],
-		}),
-	],
+  redirects: {
+    "/": "/gettingstarted/home/",
+  },
+  integrations: [
+    UnoCSS(),
+    Icons({
+      sidebar: true,
+      extractSafelist: true,
+      starlight: {
+        title: "Elysium Days Wiki",
+        customCss: ["./src/styles/custom.css"],
+        plugins: [
+          catppuccin({
+            dark: { flavor: "mocha", accent: "mauve" },
+            light: { flavor: "latte", accent: "mauve" },
+          }),
+        ],
+        logo: {
+          src: "./src/assets/logo.png",
+        },
+        components: {
+          SocialIcons: "./src/components/SocialIcons.astro",
+          Sidebar: "./src/components/Sidebar.astro",
+        },
+        social: [
+          {
+            icon: "github",
+            label: "GitHub",
+            href: "https://github.com/Fyoncle/Elysium-Days",
+          },
+          {
+            icon: "discord",
+            label: "Discord",
+            href: "https://discord.gg/WFpDr7zY8Z",
+          },
+        ],
+        sidebar: [
+          {
+            label: "Getting Started",
+            items: [
+              {
+                icon: "i-basil:explore-solid",
+                label: "Home",
+                slug: "gettingstarted/home",
+              },
+              {
+                icon: "i-basil:pin-solid",
+                label: "Frequently Asked Questions",
+                slug: "gettingstarted/faq",
+              },
+            ],
+          },
+          {
+            label: "How To Install",
+            items: [
+              {
+                icon: "i-basil:download-solid",
+                label: "Modpack Installation",
+                slug: "howtoinstall/modpackinstallation",
+              },
+              {
+                icon: "i-basil:server-solid",
+                label: "Server Installation",
+                slug: "howtoinstall/serverinstallation",
+              },
+            ],
+          },
+          {
+            label: "Guides",
+            items: [
+              {
+                icon: "i-basil:info-rect-solid",
+                label: "Common Issues",
+                slug: "guides/commonissues",
+              },
+              {
+                icon: "i-basil:save-solid",
+                label: "Memory Allocation",
+                slug: "guides/memoryallocation",
+              },
+              {
+                icon: "i-basil:user-plus-solid",
+                label: "Playing Multiplayer",
+                slug: "guides/playingmultiplayer",
+              },
+              {
+                icon: "i-basil:add-solid",
+                label: "Recommended Tweaks",
+                slug: "guides/recommendedtweaks",
+              },
+              {
+                icon: "i-basil:heart-solid",
+                label: "Trinkets",
+                slug: "guides/trinkets",
+              },
+            ],
+          },
+        ],
+      },
+    }),
+  ],
 });

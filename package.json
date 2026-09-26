@@ -11,10 +11,17 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.42.4",
+    "@catppuccin/starlight": "^2.1.0",
+    "@iconify-json/basil": "^1.2.4",
     "astro": "^7.2.10",
-    "sharp": "^0.35.3"
+    "sharp": "^0.35.3",
+    "starlight-plugin-icons": "^1.1.6"
   },
   "allowScripts": {
     "esbuild": true
+  },
+  "devDependencies": {
+    "@unocss/astro": "^66.10.5",
+    "unocss": "^66.10.5"
   }
 }

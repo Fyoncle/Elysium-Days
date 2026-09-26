@@ -1,0 +1,66 @@
+h1 svg,
+h2 svg,
+h3 svg,
+h4 svg,
+h5 svg,
+h6 svg,
+h1 .icon,
+h2 .icon,
+h3 .icon,
+h4 .icon,
+h5 .icon,
+h6 .icon {
+  display: inline;
+  vertical-align: -0.15em;
+  margin-right: 0.3em;
+}
+
+:root {
+  --spi-sidebar-icon-size: 1.25rem;
+  --spi-sidebar-icon-gap: 0.25rem;
+}
+
+.sidebar-pane {
+  padding: 1rem;
+  background: transparent;
+}
+
+.sidebar-content {
+  background: color-mix(in srgb, var(--sl-color-bg) 90%, black);
+  border-radius: 16px;
+  padding: 1rem;
+  margin: 0;
+  border: 1px solid var(--sl-color-hairline);
+  overflow: hidden;
+  height: calc(100% - 2rem);
+}
+
+header [data-open-modal] {
+  display: none;
+}
+
+.sidebar-content a {
+  padding: 0.6rem 0.8rem;
+  border-radius: 8px;
+  display: block;
+  font-size: 0.95rem;
+  color: var(--sl-color-text);
+  margin-bottom: 0.35rem;
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease;
+}
+
+.sidebar-content a:hover {
+  background-color: rgba(202, 158, 230, 0.15);
+  color: var(--sl-color-white);
+}
+
+.sidebar-content a[aria-current="page"] {
+  background-color: rgba(202, 158, 230, 0.22); /* mauve tint instead of white */
+  color: #ca9ee6;
+}
+
+:root[data-theme="light"] .sidebar-content a[aria-current="page"] {
+  color: #8839ef;
+}

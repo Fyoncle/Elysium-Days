@@ -6,9 +6,6 @@ import UnoCSS from "unocss/astro";
 // https://astro.build/config
 
 export default defineConfig({
-  redirects: {
-    "/": "/gettingstarted/home/",
-  },
   integrations: [
     UnoCSS(),
     Icons({
@@ -21,8 +18,7 @@ export default defineConfig({
             tag: "meta",
             attrs: {
               property: "og:image",
-              content:
-                "https://elysium-days-wiki.netlify.app/_astro/banner.c6ABGJOy_XucAp.webp",
+              content: "https://elysium-days-wiki.netlify.app/banner.png",
             },
           },
           {
@@ -42,7 +38,6 @@ export default defineConfig({
         },
         components: {
           SocialIcons: "./src/components/SocialIcons.astro",
-          Sidebar: "./src/components/Sidebar.astro",
         },
         social: [
           {

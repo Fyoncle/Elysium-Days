@@ -35,12 +35,8 @@ h6 .icon {
   height: calc(100% - 2rem);
 }
 
-header [data-open-modal] {
-  display: none;
-}
-
 .sidebar-content a {
-  padding: 0.6rem 0.8rem;
+  padding: 0.5rem 0.8rem;
   border-radius: 8px;
   font-size: 0.95rem;
   color: var(--sl-color-text);
@@ -48,10 +44,6 @@ header [data-open-modal] {
   transition:
     background-color 0.15s ease,
     color 0.15s ease;
-}
-
-.site-title span {
-  color: white;
 }
 
 .sidebar-content a:hover {

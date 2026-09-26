@@ -7,7 +7,7 @@ import UnoCSS from "unocss/astro";
 
 export default defineConfig({
   site: "https://fyoncle.github.io",
-  base: "/elysium-days-wiki",
+  base: "/Elysium-Days",
   integrations: [
     UnoCSS(),
     Icons({

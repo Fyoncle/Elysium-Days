@@ -23,7 +23,7 @@ export default defineConfig({
           },
           {
             tag: "meta",
-            attrs: { name: "theme-color", content: "#f3e18a" },
+            attrs: { name: "theme-color", content: "#fde405" },
           },
         ],
         customCss: ["./src/styles/custom.css"],

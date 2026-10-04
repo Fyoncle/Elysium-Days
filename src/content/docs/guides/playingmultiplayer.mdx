@@ -2,11 +2,11 @@
 title: Playing Multiplayer
 ---
 
-import { Aside, Icon, Steps } from "@astrojs/starlight/components";
+import { Aside, Icon } from "@astrojs/starlight/components";
 
 <Aside>
 
-Before starting, I am NOT sponsored by any hosting that I have listed here as options, they are my personal opinion according to my researches, I haven't personally tried them.
+Before starting, I am NOT sponsored by any hosting that I have listed here as options, they are my personal opinion according to my research, I haven't personally tried them.
 
 For further information please see [CygnusMC's hosting review video](https://youtu.be/gNMBYhEuDv8).
 
@@ -14,10 +14,10 @@ For further information please see [CygnusMC's hosting review video](https://you
 
 ### <Icon name="server" color="var(--sl-color-text-accent)" /> 1. Buying a Server Hosting
 
-With this method, you will have to choose a hosting and buy a server with a decent amount of specs. Here is some options:
+With this method, you will have to choose a hosting and buy a server with a decent amount of specs. Here are some options:
 
 - [Exaroton](https://exaroton.com/): If you're only using it at times and not so often, Exaroton provides the best value in this case since it uses credits instead of monthly payment that only gets consumed when you use the server. Server also goes offline when no one is playing, and automatically launches again when someone tries to connect.
-- [Modrinth Servers](https://modrinth.com/servers): If you have a friend group that is very active and using the server a lot, then Modrinth definitely provides better value per month.
+- [Modrinth Hosting](https://modrinth.com/hosting): If you have a friend group that is very active and using the server a lot, then Modrinth definitely provides better value per month.
 
 ✅ Pros
 
@@ -64,7 +64,7 @@ Even if you can, port forwarding is not so safe as you will have to give your IP
 
 First create a Fabric server with [this tutorial](https://www.youtube.com/watch?v=sg91I4vg7ew) and refer to the <a href="/Elysium-Days/howtoinstall/serverinstallation">Server Installation</a> section for installing Elysium Days on it. Then you will have to install ZeroTier and create a network. Then copy the network ID and give it to your friend, they will right click the system tray icon of ZeroTier and join your network.
 
-After your friend joins your network, you will copy your ZT-IP and put it in server.properties, and send it to your friend with adding `:25565` on the end of the IP (This depends on what port you set in the server.properties, by default it is 25565) The final result should look something like `??.???.???.???:25565`
+After your friend joins your network authorize them on the control panel, then you will copy your ZT-IP and put it in server.properties, and send it to your friend by adding `:25565` on the end of the IP (This depends on what port you set in the server.properties, by default it is 25565) The final result should look something like `??.???.???.???:25565`
 
 ✅ Pros
 
@@ -73,7 +73,7 @@ After your friend joins your network, you will copy your ZT-IP and put it in ser
 - Works even if you're in the CGNAT Pool.
 - No need to open ports on your router that risks security.
 - No one except the people in your ZeroTier network will be able to join, making it even safer.
-- Unlike e4mc and Cloudflared the IP is always the same.
+- Unlike Cloudflared (Method 4) the IP is always the same.
 
 ❌ Cons
 

@@ -63,7 +63,7 @@ export default defineConfig({
                 slug: "gettingstarted/home",
               },
               {
-                icon: "i-basil:pin-solid",
+                icon: "i-basil:notification-solid",
                 label: "Frequently Asked Questions",
                 slug: "gettingstarted/faq",
               },
@@ -106,6 +106,11 @@ export default defineConfig({
                 icon: "i-basil:add-solid",
                 label: "Recommended Tweaks",
                 slug: "guides/recommendedtweaks",
+              },
+              {
+                icon: "i-basil:star-solid",
+                label: "Best Enchantments",
+                slug: "guides/bestenchantments",
               },
               {
                 icon: "i-basil:heart-solid",

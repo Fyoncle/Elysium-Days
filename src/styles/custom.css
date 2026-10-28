@@ -47,21 +47,17 @@ h6 .icon {
 }
 
 .sidebar-content a:hover {
-  background-color: rgba(202, 158, 230, 0.15);
+  background-color: color-mix(in srgb, var(--sl-color-accent) 15%, transparent);
   color: var(--sl-color-white);
 }
 
 .sidebar-content a[aria-current="page"] {
-  background-color: rgba(202, 158, 230, 0.22); /* mauve tint instead of white */
-  color: #ca9ee6;
-}
-
-:root[data-theme="light"] .sidebar-content a[aria-current="page"] {
-  color: #8839ef;
+  background-color: color-mix(in srgb, var(--sl-color-accent) 22%, transparent);
+  color: var(--sl-color-text-accent);
 }
 
 .sidebar-content::after {
-  content: "Made with 💜 by Fyoncle";
+  content: "Made with 💙 by Fyoncle";
   display: block;
   text-align: center;
   font-size: 0.8rem;

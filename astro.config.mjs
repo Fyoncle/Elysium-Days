@@ -31,8 +31,8 @@ export default defineConfig({
         customCss: ["./src/styles/custom.css"],
         plugins: [
           catppuccin({
-            dark: { flavor: "mocha", accent: "mauve" },
-            light: { flavor: "latte", accent: "mauve" },
+            dark: { flavor: "mocha", accent: "blue" },
+            light: { flavor: "latte", accent: "blue" },
           }),
         ],
         logo: {

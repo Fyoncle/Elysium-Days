@@ -47,12 +47,12 @@ h6 .icon {
 }
 
 .sidebar-content a:hover {
-  background-color: color-mix(in srgb, var(--sl-color-accent) 15%, transparent);
+  background-color: rgb(44, 57, 90);
   color: var(--sl-color-white);
 }
 
 .sidebar-content a[aria-current="page"] {
-  background-color: color-mix(in srgb, var(--sl-color-accent) 22%, transparent);
+  background-color: color-mix(in srgb, var(--sl-color-accent) 15%, var(--ctp-surface1, #494d64));
   color: var(--sl-color-text-accent);
 }
 

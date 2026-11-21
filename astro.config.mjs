@@ -108,7 +108,7 @@ export default defineConfig({
                 slug: "guides/recommendedtweaks",
               },
               {
-                icon: "i-basil:explore-solid",
+                icon: "i-basil:gamepad-solid",
                 label: "Gameplay Changes",
                 slug: "guides/gameplaychanges",
               },

@@ -108,6 +108,11 @@ export default defineConfig({
                 slug: "guides/recommendedtweaks",
               },
               {
+                icon: "i-basil:explore-solid",
+                label: "Gameplay Changes",
+                slug: "guides/gameplaychanges",
+              },
+              {
                 icon: "i-basil:star-solid",
                 label: "Best Enchantments",
                 slug: "guides/bestenchantments",
